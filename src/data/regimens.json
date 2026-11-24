@@ -1,0 +1,629 @@
+[
+  {
+    "id": "reg-001",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g-benzathine"
+    ],
+    "doseTextFromSource": "1.2 million units once",
+    "route": "IM",
+    "duration": "one dose",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-002",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "adult",
+    "antibioticIds": [
+      "cephalexin"
+    ],
+    "doseTextFromSource": "500 mg twice daily",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-003",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "adult",
+    "antibioticIds": [
+      "azithromycin"
+    ],
+    "doseTextFromSource": "500 mg day 1 then 250 mg daily days 2–5",
+    "route": "PO",
+    "duration": "5 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-004",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "adult",
+    "antibioticIds": [
+      "clindamycin"
+    ],
+    "doseTextFromSource": "300 mg three times daily",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-005",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-v"
+    ],
+    "doseTextFromSource": "500 mg twice daily",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-006",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "penicillin-g-benzathine"
+    ],
+    "doseTextFromSource": "900,000 units benzathine G plus 300,000 units procaine G once",
+    "route": "IM",
+    "duration": "one dose",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Source-specific formulation for weight <27 kg; differs from CDC recommendation; verify formulation and dose",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-007",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "amoxicillin"
+    ],
+    "doseTextFromSource": "50 mg/kg/day in two divided doses",
+    "route": "PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Source did not specify duration; verify against current guideline",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-008",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "cephalexin"
+    ],
+    "doseTextFromSource": "25–50 mg/kg/day in two divided doses",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-009",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "azithromycin"
+    ],
+    "doseTextFromSource": "12 mg/kg once daily",
+    "route": "PO",
+    "duration": "5 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Differs from CDC day-1/loading then maintenance guidance",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-010",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "clindamycin"
+    ],
+    "doseTextFromSource": "7 mg/kg/dose three times daily, if weight <70 kg",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-011",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "pharyngitis",
+    "population": "child",
+    "antibioticIds": [
+      "penicillin-v"
+    ],
+    "doseTextFromSource": "25–50 mg/kg/day divided every 6 hours",
+    "route": "PO",
+    "duration": "10 days",
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-012",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "vancomycin"
+    ],
+    "doseTextFromSource": "15–20 mg/kg every 8–12 h, AUC24 target 400–600 mg·h/L",
+    "route": "IV",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Source also offers trough-based dosing; validate contemporary monitoring",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-013",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "linezolid"
+    ],
+    "doseTextFromSource": "600 mg twice daily",
+    "route": "IV/PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-014",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "clindamycin"
+    ],
+    "doseTextFromSource": "600 mg every 8 h",
+    "route": "IV",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Subject to local resistance",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-015",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g",
+      "penicillin-v"
+    ],
+    "doseTextFromSource": "Penicillin G 2–4 million units every 4–6 h until afebrile, then Pen V 500 mg four times daily",
+    "route": "IV then PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Sequential combination, not concurrent",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-016",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "ceftriaxone"
+    ],
+    "doseTextFromSource": "1 g every 24 h",
+    "route": "IV",
+    "duration": null,
+    "sourceCategory": "alternative",
+    "clinicalPriority": "unreviewed",
+    "condition": "non-IgE penicillin rash",
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-017",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "cefazolin"
+    ],
+    "doseTextFromSource": "1 g every 8 h",
+    "route": "IV",
+    "duration": null,
+    "sourceCategory": "alternative",
+    "clinicalPriority": "unreviewed",
+    "condition": "non-IgE penicillin rash",
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-018",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "erysipelas-cellulitis",
+    "population": "adult",
+    "antibioticIds": [
+      "omadacycline"
+    ],
+    "doseTextFromSource": "Multiple IV/PO loading and maintenance schedules in source; requires validation",
+    "route": "IV/PO",
+    "duration": null,
+    "sourceCategory": "alternative",
+    "clinicalPriority": "unreviewed",
+    "condition": "history of severe immediate beta-lactam hypersensitivity",
+    "notes": null,
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-019",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "bacteremia",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g",
+      "clindamycin"
+    ],
+    "doseTextFromSource": "Penicillin G 4 million units every 4 h plus clindamycin 600–900 mg every 8 h",
+    "route": "IV",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination; source also offers linezolid instead of clindamycin",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-020",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "bacteremia",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g",
+      "linezolid"
+    ],
+    "doseTextFromSource": "Penicillin G 4 million units every 4 h plus linezolid 600 mg twice daily",
+    "route": "IV / IV-PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination; requires invasive disease expert review",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-021",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "streptococcal-toxic-shock-syndrome",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g",
+      "clindamycin"
+    ],
+    "doseTextFromSource": "Penicillin G 4 million units every 4 h plus clindamycin 600–900 mg every 8 h",
+    "route": "IV / IV-PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination regimen. Urgent supportive care and source control essential.",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-022",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "streptococcal-toxic-shock-syndrome",
+    "population": "adult",
+    "antibioticIds": [
+      "penicillin-g",
+      "linezolid"
+    ],
+    "doseTextFromSource": "Penicillin G 4 million units every 4 h plus linezolid 600 mg twice daily",
+    "route": "IV / IV-PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination regimen. Urgent supportive care and source control essential.",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-023",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "streptococcal-toxic-shock-syndrome",
+    "population": "adult",
+    "antibioticIds": [
+      "ceftriaxone",
+      "clindamycin"
+    ],
+    "doseTextFromSource": "Ceftriaxone 2 g daily plus clindamycin 600–900 mg every 8 h",
+    "route": "IV / IV-PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination regimen. Urgent supportive care and source control essential.",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "reg-024",
+    "organismId": "streptococcus-pyogenes",
+    "syndromeId": "streptococcal-toxic-shock-syndrome",
+    "population": "adult",
+    "antibioticIds": [
+      "ceftriaxone",
+      "linezolid"
+    ],
+    "doseTextFromSource": "Ceftriaxone 2 g daily plus linezolid 600 mg twice daily",
+    "route": "IV / IV-PO",
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Combination regimen. Urgent supportive care and source control essential.",
+    "sourceIds": [
+      "sanford-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-001",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": null,
+    "population": "unspecified",
+    "antibioticIds": [
+      "penicillin-g"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": "Definitive treatment when susceptible",
+    "notes": "Source specifies penicillin generally; exact formulation/dosing depends on syndrome.",
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-002",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": null,
+    "population": "unspecified",
+    "antibioticIds": [
+      "ceftriaxone"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": "Definitive treatment when susceptible",
+    "notes": null,
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-003",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": null,
+    "population": "unspecified",
+    "antibioticIds": [
+      "vancomycin"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "primary",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "Includes situations with suspected resistance or when beta-lactams cannot be used; not automatically first choice in every syndrome.",
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-004",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": "neutropenic-bacteremia",
+    "population": "unspecified",
+    "antibioticIds": [
+      "vancomycin"
+    ],
+    "doseTextFromSource": "15 mg/kg IV every 12 hours",
+    "route": "IV",
+    "duration": "At least 10–14 days, individualised to clinical and haematological recovery and culture clearance",
+    "sourceCategory": "empiric",
+    "clinicalPriority": "unreviewed",
+    "condition": null,
+    "notes": "This is a source-stated regimen; verify against current local neutropenic sepsis protocol. Vancomycin should not be interpreted as sole empiric coverage for febrile neutropenia.",
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-005",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": "neutropenic-bacteremia",
+    "population": "unspecified",
+    "antibioticIds": [
+      "penicillin-g"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "deescalation",
+    "clinicalPriority": "unreviewed",
+    "condition": "Susceptibility confirmed",
+    "notes": null,
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-006",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": "neutropenic-bacteremia",
+    "population": "unspecified",
+    "antibioticIds": [
+      "ceftriaxone"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "deescalation",
+    "clinicalPriority": "unreviewed",
+    "condition": "Susceptibility confirmed",
+    "notes": null,
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  },
+  {
+    "id": "vir-007",
+    "groupId": "viridans-group-streptococci",
+    "syndromeId": null,
+    "population": "unspecified",
+    "antibioticIds": [
+      "clindamycin"
+    ],
+    "doseTextFromSource": null,
+    "route": null,
+    "duration": null,
+    "sourceCategory": "alternative",
+    "clinicalPriority": "unreviewed",
+    "condition": "Only when in-vitro susceptibility confirmed",
+    "notes": null,
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "reviewStatus": "needs_clinician_validation"
+  }
+]

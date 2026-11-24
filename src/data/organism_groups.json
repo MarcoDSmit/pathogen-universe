@@ -1,0 +1,67 @@
+[
+  {
+    "id": "viridans-group-streptococci",
+    "name": "Viridans group streptococci",
+    "type": "clinical_group",
+    "genusId": "streptococcus",
+    "clinicalSector": "gram-positive-cocci",
+    "gramStain": "positive",
+    "morphology": "cocci in chains",
+    "memberOrganismIds": [
+      "streptococcus-mitis",
+      "streptococcus-mutans",
+      "streptococcus-anginosus",
+      "streptococcus-constellatus",
+      "streptococcus-intermedius",
+      "streptococcus-gordonii",
+      "streptococcus-parasanguinis",
+      "streptococcus-sanguinis",
+      "streptococcus-thermophilus"
+    ],
+    "nestedGroupIds": [
+      "streptococcus-anginosus-group"
+    ],
+    "usualColonizationSites": [
+      "oral cavity",
+      "gastrointestinal tract",
+      "vaginal flora"
+    ],
+    "clinicalSyndromeIds": [
+      "infective-endocarditis",
+      "brain-abscess",
+      "empyema",
+      "neutropenic-bacteremia",
+      "neutropenic-enterocolitis"
+    ],
+    "notes": [
+      "Group boundaries vary between sources; viridans is not a single species or formal taxonomic rank.",
+      "Anginosus group is particularly associated with abscesses.",
+      "Species vary in their association with endocarditis.",
+      "Streptococcus sanguis is an obsolete spelling for S. sanguinis; stored as an alias, not a separate planet."
+    ],
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "status": "draft_needs_clinical_review"
+  },
+  {
+    "id": "streptococcus-anginosus-group",
+    "name": "Streptococcus anginosus group",
+    "type": "species_group",
+    "genusId": "streptococcus",
+    "memberOrganismIds": [
+      "streptococcus-anginosus",
+      "streptococcus-constellatus",
+      "streptococcus-intermedius"
+    ],
+    "clinicalSyndromeIds": [
+      "brain-abscess",
+      "liver-abscess",
+      "infective-endocarditis"
+    ],
+    "sourceIds": [
+      "sanford-viridans-user-paste-2026-10-29"
+    ],
+    "status": "draft_needs_clinical_review"
+  }
+]

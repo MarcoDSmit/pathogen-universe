@@ -1,0 +1,1094 @@
+{
+  "achromobacter-xylosoxidans": {
+    "clinicalNotes": [
+      "sanford-1"
+    ],
+    "listedIn": []
+  },
+  "acinetobacter-baumannii": {
+    "clinicalNotes": [
+      "sanford-46"
+    ],
+    "listedIn": []
+  },
+  "acinetobacter-calcoaceticus": {
+    "clinicalNotes": [
+      "sanford-46"
+    ],
+    "listedIn": []
+  },
+  "acinetobacter-dijkshoorniae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-46"
+    ]
+  },
+  "acinetobacter-nosocomialis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-46"
+    ]
+  },
+  "acinetobacter-pittii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-46"
+    ]
+  },
+  "acinetobacter-seifertii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-46"
+    ]
+  },
+  "actinobaculum-schaalii": {
+    "clinicalNotes": [
+      "sanford-177"
+    ],
+    "listedIn": []
+  },
+  "actinomadura-madurae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-298"
+    ]
+  },
+  "actinomadura-pelletieri": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-298"
+    ]
+  },
+  "actinomyces-europaeus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-335"
+    ]
+  },
+  "actinomyces-israelii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-335"
+    ]
+  },
+  "actinomyces-meyeri": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-335"
+    ]
+  },
+  "actinomyces-turicensis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-335"
+    ]
+  },
+  "aerococcus-sanguinicola": {
+    "clinicalNotes": [
+      "sanford-374"
+    ],
+    "listedIn": []
+  },
+  "aerococcus-urinae": {
+    "clinicalNotes": [
+      "sanford-374"
+    ],
+    "listedIn": []
+  },
+  "aerococcus-viridans": {
+    "clinicalNotes": [
+      "sanford-183"
+    ],
+    "listedIn": []
+  },
+  "alcaligenes-faecalis": {
+    "clinicalNotes": [
+      "sanford-189"
+    ],
+    "listedIn": []
+  },
+  "alloscardovia-omnicolens": {
+    "clinicalNotes": [
+      "sanford-195"
+    ],
+    "listedIn": []
+  },
+  "anaplasma-phagocytophilum": {
+    "clinicalNotes": [
+      "sanford-2767"
+    ],
+    "listedIn": []
+  },
+  "bacillus-anthracis": {
+    "clinicalNotes": [
+      "sanford-536"
+    ],
+    "listedIn": []
+  },
+  "bacillus-cereus": {
+    "clinicalNotes": [
+      "sanford-556"
+    ],
+    "listedIn": []
+  },
+  "bacillus-subtilis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-556"
+    ]
+  },
+  "bacteroides-fragilis": {
+    "clinicalNotes": [
+      "sanford-736",
+      "sanford-2-7699"
+    ],
+    "listedIn": []
+  },
+  "bacteroides-ovatus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-736"
+    ]
+  },
+  "bacteroides-thetaiotaomicron": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-736"
+    ]
+  },
+  "bartonella-bacilliformis": {
+    "clinicalNotes": [
+      "sanford-885",
+      "sanford-762"
+    ],
+    "listedIn": []
+  },
+  "bartonella-henselae": {
+    "clinicalNotes": [
+      "sanford-788",
+      "sanford-762"
+    ],
+    "listedIn": []
+  },
+  "bartonella-quintana": {
+    "clinicalNotes": [
+      "sanford-762",
+      "sanford-856"
+    ],
+    "listedIn": []
+  },
+  "bordetella-parapertussis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-937"
+    ]
+  },
+  "bordetella-pertussis": {
+    "clinicalNotes": [
+      "sanford-937"
+    ],
+    "listedIn": []
+  },
+  "borrelia-burgdorferi": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "borrelia-mayonii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "borrelia-miyamotoi": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "burkholderia-cenocepacia": {
+    "clinicalNotes": [
+      "sanford-1176"
+    ],
+    "listedIn": []
+  },
+  "burkholderia-cepacia": {
+    "clinicalNotes": [
+      "sanford-1176"
+    ],
+    "listedIn": []
+  },
+  "burkholderia-multivorans": {
+    "clinicalNotes": [
+      "sanford-1176"
+    ],
+    "listedIn": []
+  },
+  "burkholderia-pseudomallei": {
+    "clinicalNotes": [
+      "sanford-1208"
+    ],
+    "listedIn": []
+  },
+  "campylobacter-coli": {
+    "clinicalNotes": [
+      "sanford-1248"
+    ],
+    "listedIn": []
+  },
+  "campylobacter-fetus": {
+    "clinicalNotes": [
+      "sanford-1282"
+    ],
+    "listedIn": []
+  },
+  "campylobacter-gracilis": {
+    "clinicalNotes": [
+      "sanford-1318"
+    ],
+    "listedIn": []
+  },
+  "campylobacter-jejuni": {
+    "clinicalNotes": [
+      "sanford-1332",
+      "sanford-1248"
+    ],
+    "listedIn": []
+  },
+  "candidatus-neoehrlichia-mikurensis": {
+    "clinicalNotes": [
+      "sanford-5485"
+    ],
+    "listedIn": []
+  },
+  "capnocytophaga-canimorsus": {
+    "clinicalNotes": [
+      "sanford-1362"
+    ],
+    "listedIn": []
+  },
+  "capnocytophaga-cynodegmi": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-1362"
+    ]
+  },
+  "capnocytophaga-stomatis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-1362"
+    ]
+  },
+  "chlamydia-pneumoniae": {
+    "clinicalNotes": [
+      "sanford-1478"
+    ],
+    "listedIn": []
+  },
+  "chlamydia-psittaci": {
+    "clinicalNotes": [
+      "sanford-1505"
+    ],
+    "listedIn": []
+  },
+  "chlamydia-trachomatis": {
+    "clinicalNotes": [
+      "sanford-1425"
+    ],
+    "listedIn": []
+  },
+  "citrobacter-freundii": {
+    "clinicalNotes": [
+      "sanford-1676"
+    ],
+    "listedIn": []
+  },
+  "citrobacter-koseri": {
+    "clinicalNotes": [
+      "sanford-1565"
+    ],
+    "listedIn": []
+  },
+  "clostridioides-difficile": {
+    "clinicalNotes": [
+      "sanford-1791"
+    ],
+    "listedIn": []
+  },
+  "clostridium-baratii": {
+    "clinicalNotes": [
+      "sanford-1927"
+    ],
+    "listedIn": []
+  },
+  "clostridium-bifermentans": {
+    "clinicalNotes": [
+      "sanford-1914"
+    ],
+    "listedIn": []
+  },
+  "clostridium-botulinum": {
+    "clinicalNotes": [
+      "sanford-1927"
+    ],
+    "listedIn": []
+  },
+  "clostridium-butyricum": {
+    "clinicalNotes": [
+      "sanford-1927"
+    ],
+    "listedIn": []
+  },
+  "clostridium-perfringens": {
+    "clinicalNotes": [
+      "sanford-1985"
+    ],
+    "listedIn": []
+  },
+  "clostridium-tetani": {
+    "clinicalNotes": [
+      "sanford-2008"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-afermentans": {
+    "clinicalNotes": [
+      "sanford-208"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-amycolatum": {
+    "clinicalNotes": [
+      "sanford-215"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-diphtheriae": {
+    "clinicalNotes": [
+      "sanford-2342"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-jeikeium": {
+    "clinicalNotes": [
+      "sanford-2317"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-riegelii": {
+    "clinicalNotes": [
+      "sanford-222"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-striatum": {
+    "clinicalNotes": [
+      "sanford-229"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-tuberculostearicum": {
+    "clinicalNotes": [
+      "sanford-237"
+    ],
+    "listedIn": []
+  },
+  "corynebacterium-urealyticum": {
+    "clinicalNotes": [
+      "sanford-2573"
+    ],
+    "listedIn": []
+  },
+  "coxiella-burnetii": {
+    "clinicalNotes": [
+      "sanford-2590"
+    ],
+    "listedIn": []
+  },
+  "dialister-pneumosintes": {
+    "clinicalNotes": [
+      "sanford-2752"
+    ],
+    "listedIn": []
+  },
+  "ehrlichia-chaffeensis": {
+    "clinicalNotes": [
+      "sanford-2767"
+    ],
+    "listedIn": []
+  },
+  "ehrlichia-ewingii": {
+    "clinicalNotes": [
+      "sanford-2767"
+    ],
+    "listedIn": []
+  },
+  "ehrlichia-muris": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "eikenella-corrodens": {
+    "clinicalNotes": [
+      "sanford-2818"
+    ],
+    "listedIn": []
+  },
+  "elizabethkingia-meningoseptica": {
+    "clinicalNotes": [
+      "sanford-2850"
+    ],
+    "listedIn": []
+  },
+  "enterobacter-bugandensis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-244"
+    ]
+  },
+  "enterobacter-cloacae": {
+    "clinicalNotes": [
+      "sanford-3026"
+    ],
+    "listedIn": []
+  },
+  "enterobacter-hormaechei": {
+    "clinicalNotes": [
+      "sanford-3026"
+    ],
+    "listedIn": []
+  },
+  "enterococcus-faecalis": {
+    "clinicalNotes": [
+      "sanford-3292"
+    ],
+    "listedIn": []
+  },
+  "enterococcus-faecium": {
+    "clinicalNotes": [
+      "sanford-3321"
+    ],
+    "listedIn": []
+  },
+  "erysipelothrix-rhusiopathiae": {
+    "clinicalNotes": [
+      "sanford-3354"
+    ],
+    "listedIn": []
+  },
+  "escherichia-coli": {
+    "clinicalNotes": [
+      "sanford-3503",
+      "sanford-3381"
+    ],
+    "listedIn": []
+  },
+  "finegoldia-magna": {
+    "clinicalNotes": [
+      "sanford-5992"
+    ],
+    "listedIn": []
+  },
+  "francisella-tularensis": {
+    "clinicalNotes": [
+      "sanford-3532"
+    ],
+    "listedIn": []
+  },
+  "fusobacterium-necrophorum": {
+    "clinicalNotes": [
+      "sanford-3605"
+    ],
+    "listedIn": []
+  },
+  "fusobacterium-nucleatum": {
+    "clinicalNotes": [
+      "sanford-3644"
+    ],
+    "listedIn": []
+  },
+  "gardnerella-vaginalis": {
+    "clinicalNotes": [
+      "sanford-3657"
+    ],
+    "listedIn": []
+  },
+  "gemella-morbillorum": {
+    "clinicalNotes": [
+      "sanford-3685"
+    ],
+    "listedIn": []
+  },
+  "haemophilus-ducreyi": {
+    "clinicalNotes": [
+      "sanford-3946"
+    ],
+    "listedIn": []
+  },
+  "haemophilus-influenzae": {
+    "clinicalNotes": [
+      "sanford-3984"
+    ],
+    "listedIn": []
+  },
+  "helicobacter-cinaedi": {
+    "clinicalNotes": [
+      "sanford-4045"
+    ],
+    "listedIn": []
+  },
+  "helicobacter-pylori": {
+    "clinicalNotes": [
+      "sanford-4071"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-aerogenes": {
+    "clinicalNotes": [
+      "sanford-4312"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-granulomatis": {
+    "clinicalNotes": [
+      "sanford-4431"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-oxytoca": {
+    "clinicalNotes": [
+      "sanford-4497"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-ozaenae": {
+    "clinicalNotes": [
+      "sanford-4620"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-pneumoniae": {
+    "clinicalNotes": [
+      "sanford-4497"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-rhinoscleromatis": {
+    "clinicalNotes": [
+      "sanford-4620"
+    ],
+    "listedIn": []
+  },
+  "klebsiella-variicola": {
+    "clinicalNotes": [
+      "sanford-4497"
+    ],
+    "listedIn": []
+  },
+  "legionella-longbeachae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-4811"
+    ]
+  },
+  "legionella-micdadei": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-4811"
+    ]
+  },
+  "legionella-pneumophila": {
+    "clinicalNotes": [
+      "sanford-4811"
+    ],
+    "listedIn": []
+  },
+  "legionella-wadsworthii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-4811"
+    ]
+  },
+  "leuconostoc-mesenteroides": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-4891"
+    ]
+  },
+  "listeria-monocytogenes": {
+    "clinicalNotes": [
+      "sanford-4909"
+    ],
+    "listedIn": []
+  },
+  "moraxella-catarrhalis": {
+    "clinicalNotes": [
+      "sanford-5101"
+    ],
+    "listedIn": []
+  },
+  "morganella-morganii": {
+    "clinicalNotes": [
+      "sanford-5123"
+    ],
+    "listedIn": []
+  },
+  "mycoplasma-genitalium": {
+    "clinicalNotes": [
+      "sanford-5256"
+    ],
+    "listedIn": []
+  },
+  "mycoplasma-hominis": {
+    "clinicalNotes": [
+      "sanford-5297"
+    ],
+    "listedIn": []
+  },
+  "mycoplasma-pneumoniae": {
+    "clinicalNotes": [
+      "sanford-5329"
+    ],
+    "listedIn": []
+  },
+  "neisseria-gonorrhoeae": {
+    "clinicalNotes": [
+      "sanford-5379"
+    ],
+    "listedIn": []
+  },
+  "neisseria-meningitidis": {
+    "clinicalNotes": [
+      "sanford-5446"
+    ],
+    "listedIn": []
+  },
+  "nocardia-abscessus": {
+    "clinicalNotes": [
+      "sanford-5511"
+    ],
+    "listedIn": []
+  },
+  "nocardia-asteroides": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-298"
+    ]
+  },
+  "nocardia-brasiliensis": {
+    "clinicalNotes": [
+      "sanford-5511"
+    ],
+    "listedIn": [
+      "sanford-298"
+    ]
+  },
+  "nocardia-cyriacigeorgica": {
+    "clinicalNotes": [
+      "sanford-5511"
+    ],
+    "listedIn": []
+  },
+  "nocardia-farcinica": {
+    "clinicalNotes": [
+      "sanford-5511"
+    ],
+    "listedIn": []
+  },
+  "nocardia-nova": {
+    "clinicalNotes": [
+      "sanford-5511"
+    ],
+    "listedIn": []
+  },
+  "ochrobactrum-anthropi": {
+    "clinicalNotes": [
+      "sanford-265"
+    ],
+    "listedIn": []
+  },
+  "paeniclostridium-sordellii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-1985"
+    ]
+  },
+  "pantoea-agglomerans": {
+    "clinicalNotes": [
+      "sanford-272"
+    ],
+    "listedIn": []
+  },
+  "parabacteroides-distasonis": {
+    "clinicalNotes": [
+      "sanford-2-7699"
+    ],
+    "listedIn": [
+      "sanford-736"
+    ]
+  },
+  "parvimonas-micra": {
+    "clinicalNotes": [
+      "sanford-5676"
+    ],
+    "listedIn": []
+  },
+  "photobacterium-damselae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7565"
+    ]
+  },
+  "plesiomonas-shigelloides": {
+    "clinicalNotes": [
+      "sanford-6067"
+    ],
+    "listedIn": []
+  },
+  "porphyromonas-endodontalis": {
+    "clinicalNotes": [
+      "sanford-6103"
+    ],
+    "listedIn": []
+  },
+  "prevotella-melaninogenica": {
+    "clinicalNotes": [
+      "sanford-2-7699"
+    ],
+    "listedIn": []
+  },
+  "prevotella-nigrescens": {
+    "clinicalNotes": [
+      "sanford-2-7699"
+    ],
+    "listedIn": []
+  },
+  "prevotella-pleuritidis": {
+    "clinicalNotes": [
+      "sanford-2-7699"
+    ],
+    "listedIn": []
+  },
+  "proteus-mirabilis": {
+    "clinicalNotes": [
+      "sanford-6215"
+    ],
+    "listedIn": []
+  },
+  "proteus-penneri": {
+    "clinicalNotes": [
+      "sanford-6215"
+    ],
+    "listedIn": []
+  },
+  "proteus-vulgaris": {
+    "clinicalNotes": [
+      "sanford-6215"
+    ],
+    "listedIn": []
+  },
+  "pseudomonas-aeruginosa": {
+    "clinicalNotes": [
+      "sanford-6117"
+    ],
+    "listedIn": []
+  },
+  "rhodococcus-equi": {
+    "clinicalNotes": [
+      "sanford-6334"
+    ],
+    "listedIn": []
+  },
+  "rickettsia-parkeri": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "rickettsia-rickettsii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-999"
+    ]
+  },
+  "rothia-dentocariosa": {
+    "clinicalNotes": [
+      "sanford-284"
+    ],
+    "listedIn": []
+  },
+  "rothia-mucilaginosa": {
+    "clinicalNotes": [
+      "sanford-291"
+    ],
+    "listedIn": []
+  },
+  "salmonella-enterica": {
+    "clinicalNotes": [
+      "sanford-2-6629"
+    ],
+    "listedIn": []
+  },
+  "serratia-marcescens": {
+    "clinicalNotes": [
+      "sanford-2-6695"
+    ],
+    "listedIn": []
+  },
+  "shigella-boydii": {
+    "clinicalNotes": [
+      "sanford-2-6809"
+    ],
+    "listedIn": []
+  },
+  "shigella-dysenteriae": {
+    "clinicalNotes": [
+      "sanford-2-6809"
+    ],
+    "listedIn": []
+  },
+  "shigella-flexneri": {
+    "clinicalNotes": [
+      "sanford-2-6809"
+    ],
+    "listedIn": []
+  },
+  "shigella-sonnei": {
+    "clinicalNotes": [
+      "sanford-2-6809"
+    ],
+    "listedIn": []
+  },
+  "spirillum-minus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7192"
+    ]
+  },
+  "staphylococcus-aureus": {
+    "clinicalNotes": [
+      "sanford-2-6945",
+      "sanford-2-6888"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-capitis": {
+    "clinicalNotes": [
+      "sanford-2-7069"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-caprae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7069"
+    ]
+  },
+  "staphylococcus-epidermidis": {
+    "clinicalNotes": [
+      "sanford-2-7069",
+      "sanford-2-7017"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-haemolyticus": {
+    "clinicalNotes": [
+      "sanford-2-7069",
+      "sanford-2-7094"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-hominis": {
+    "clinicalNotes": [
+      "sanford-2-7069"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-lugdunensis": {
+    "clinicalNotes": [
+      "sanford-2-7069",
+      "sanford-2-7113"
+    ],
+    "listedIn": []
+  },
+  "staphylococcus-saprophyticus": {
+    "clinicalNotes": [
+      "sanford-2-7137"
+    ],
+    "listedIn": []
+  },
+  "stenotrophomonas-maltophilia": {
+    "clinicalNotes": [
+      "sanford-2-7158"
+    ],
+    "listedIn": []
+  },
+  "streptobacillus-moniliformis": {
+    "clinicalNotes": [
+      "sanford-2-7192"
+    ],
+    "listedIn": []
+  },
+  "streptococcus-agalactiae": {
+    "clinicalNotes": [
+      "sanford-2-7211"
+    ],
+    "listedIn": [
+      "sanford-2-7319"
+    ]
+  },
+  "streptococcus-anginosus": {
+    "clinicalNotes": [
+      "sanford-2-7252"
+    ],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-constellatus": {
+    "clinicalNotes": [
+      "sanford-2-7252"
+    ],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-dysgalactiae": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7319"
+    ]
+  },
+  "streptococcus-equi": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7319"
+    ]
+  },
+  "streptococcus-gordonii": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-intermedius": {
+    "clinicalNotes": [
+      "sanford-2-7252"
+    ],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-mitis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-mutans": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-parasanguinis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-pneumoniae": {
+    "clinicalNotes": [
+      "sanford-2-7281"
+    ],
+    "listedIn": []
+  },
+  "streptococcus-pyogenes": {
+    "clinicalNotes": [
+      "sanford-2-7319"
+    ],
+    "listedIn": []
+  },
+  "streptococcus-sanguinis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptococcus-thermophilus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7392"
+    ]
+  },
+  "streptomyces-somaliensis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-298"
+    ]
+  },
+  "treponema-carateum": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7470"
+    ]
+  },
+  "treponema-pallidum": {
+    "clinicalNotes": [
+      "sanford-2-7470"
+    ],
+    "listedIn": [
+      "sanford-2-7470"
+    ]
+  },
+  "ureaplasma-parvum": {
+    "clinicalNotes": [
+      "sanford-2-7531"
+    ],
+    "listedIn": []
+  },
+  "ureaplasma-urealyticum": {
+    "clinicalNotes": [
+      "sanford-2-7531"
+    ],
+    "listedIn": []
+  },
+  "vibrio-alginolyticus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7565"
+    ]
+  },
+  "vibrio-cholerae": {
+    "clinicalNotes": [
+      "sanford-2-7583"
+    ],
+    "listedIn": []
+  },
+  "vibrio-fluvialis": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7623"
+    ]
+  },
+  "vibrio-mimicus": {
+    "clinicalNotes": [],
+    "listedIn": [
+      "sanford-2-7623"
+    ]
+  },
+  "vibrio-parahaemolyticus": {
+    "clinicalNotes": [
+      "sanford-2-7623"
+    ],
+    "listedIn": []
+  },
+  "vibrio-vulnificus": {
+    "clinicalNotes": [
+      "sanford-2-7664"
+    ],
+    "listedIn": []
+  }
+}

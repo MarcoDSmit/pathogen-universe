@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sanford-user-paste-2026-10-29",
+    "name": "Sanford Guide, user-supplied excerpt",
+    "capturedOn": "2026-10-29",
+    "type": "user_supplied_excerpt",
+    "licenseStatus": "private_reference_review_required",
+    "notes": "Source text is a broad beta-haemolytic streptococci entry, not exclusively S. pyogenes."
+  },
+  {
+    "id": "cdc-gas-2025",
+    "name": "CDC Clinical Considerations for Group A Streptococcus",
+    "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/",
+    "type": "public_guidance"
+  },
+  {
+    "id": "cdc-pharyngitis-2025",
+    "name": "CDC Clinical Guidance for Group A Strep Pharyngitis",
+    "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html",
+    "type": "public_guidance"
+  },
+  {
+    "id": "cdc-stss-2025",
+    "name": "CDC Clinical Guidance for Streptococcal Toxic Shock Syndrome",
+    "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/streptococcal-toxic-shock-syndrome.html",
+    "type": "public_guidance"
+  },
+  {
+    "id": "sanford-viridans-user-paste-2026-10-29",
+    "name": "Sanford Guide viridans group streptococci, user-supplied excerpt",
+    "capturedOn": "2026-10-29",
+    "type": "user_supplied_excerpt",
+    "licenseStatus": "private_reference_review_required",
+    "notes": "Paraphrased group-level source. No separate five-symbol ratings provided."
+  },
+  {
+    "id": "lpsn-sanguinis",
+    "name": "LPSN: Streptococcus sanguinis nomenclature",
+    "url": "https://lpsn.dsmz.de/species/streptococcus-sanguinis",
+    "type": "taxonomy_reference"
+  }
+]

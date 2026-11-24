@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "staphyla-aurea",
+    "sector": "gp-cocci",
+    "name": "Staphyla Aurea",
+    "meaning": "Golden Cluster",
+    "expectedStars": 10,
+    "art": "art/constellations/staphyla-aurea.webp",
+    "points": [
+      [
+        152.88,
+        34.12
+      ],
+      [
+        221.88,
+        54.88
+      ],
+      [
+        91.0,
+        64.79
+      ],
+      [
+        160.88,
+        104.88
+      ],
+      [
+        198.0,
+        104.0
+      ],
+      [
+        79.12,
+        126.88
+      ],
+      [
+        215.4,
+        139.6
+      ],
+      [
+        132.29,
+        168.0
+      ],
+      [
+        198.0,
+        169.29
+      ],
+      [
+        167.12,
+        215.12
+      ]
+    ]
+  },
+  {
+    "id": "bacillus-ferox",
+    "sector": "gp-rods",
+    "name": "Bacillus Ferox",
+    "meaning": "Fierce Rod",
+    "expectedStars": 7,
+    "art": "art/constellations/bacillus-ferox.webp",
+    "points": [
+      [
+        232.88,
+        34.12
+      ],
+      [
+        174.71,
+        67.0
+      ],
+      [
+        248.0,
+        68.5
+      ],
+      [
+        109.12,
+        119.12
+      ],
+      [
+        175.12,
+        151.12
+      ],
+      [
+        64.33,
+        168.0
+      ],
+      [
+        80.0,
+        216.0
+      ]
+    ]
+  },
+  {
+    "id": "navis-enterica",
+    "sector": "gn-enteric",
+    "name": "Navis Enterica",
+    "meaning": "Enteric Ship",
+    "expectedStars": 15,
+    "art": "art/constellations/navis-enterica.webp",
+    "points": [
+      [
+        141.88,
+        30.59
+      ],
+      [
+        142.88,
+        67.88
+      ],
+      [
+        168.0,
+        65.0
+      ],
+      [
+        111.29,
+        108.0
+      ],
+      [
+        49.6,
+        152.6
+      ],
+      [
+        129.0,
+        161.0
+      ],
+      [
+        137.0,
+        138.0
+      ],
+      [
+        212.29,
+        158.0
+      ],
+      [
+        225.29,
+        144.0
+      ],
+      [
+        43.75,
+        163.62
+      ],
+      [
+        140.29,
+        177.0
+      ],
+      [
+        141.12,
+        164.12
+      ],
+      [
+        259.83,
+        169.17
+      ],
+      [
+        108.0,
+        214.5
+      ],
+      [
+        190.83,
+        214.17
+      ]
+    ]
+  },
+  {
+    "id": "flumen-fecundum",
+    "sector": "gn-enteric",
+    "name": "Flumen Fecundum",
+    "meaning": "Nourishing River",
+    "expectedStars": 14,
+    "art": "art/constellations/flumen-fecundum.webp",
+    "points": [
+      [
+        107.0,
+        41.0
+      ],
+      [
+        74.5,
+        68.5
+      ],
+      [
+        105.0,
+        79.29
+      ],
+      [
+        126.0,
+        63.29
+      ],
+      [
+        164.0,
+        76.5
+      ],
+      [
+        200.0,
+        66.0
+      ],
+      [
+        61.12,
+        88.12
+      ],
+      [
+        181.88,
+        102.88
+      ],
+      [
+        224.0,
+        104.0
+      ],
+      [
+        145.0,
+        117.0
+      ],
+      [
+        183.4,
+        157.6
+      ],
+      [
+        190.6,
+        144.6
+      ],
+      [
+        196.12,
+        220.12
+      ],
+      [
+        206.71,
+        227.0
+      ]
+    ]
+  },
+  {
+    "id": "microscopium-magnus",
+    "sector": "gn-other",
+    "name": "Microscopium Magnus",
+    "meaning": "Great Microscope",
+    "expectedStars": 11,
+    "art": "art/constellations/microscopium-magnus.webp",
+    "points": [
+      [
+        117.4,
+        43.6
+      ],
+      [
+        131.88,
+        66.12
+      ],
+      [
+        137.0,
+        81.0
+      ],
+      [
+        154.0,
+        102.0
+      ],
+      [
+        139.88,
+        134.88
+      ],
+      [
+        175.4,
+        122.4
+      ],
+      [
+        124.71,
+        156.0
+      ],
+      [
+        188.29,
+        172.0
+      ],
+      [
+        154.12,
+        205.88
+      ],
+      [
+        106.29,
+        221.0
+      ],
+      [
+        200.0,
+        225.29
+      ]
+    ]
+  },
+  {
+    "id": "lamina-vitrea",
+    "sector": "gn-other",
+    "name": "Lamina Vitrea",
+    "meaning": "Glass Slide",
+    "expectedStars": 11,
+    "art": "art/constellations/lamina-vitrea.webp",
+    "points": [
+      [
+        207.12,
+        31.12
+      ],
+      [
+        83.0,
+        62.0
+      ],
+      [
+        137.0,
+        43.0
+      ],
+      [
+        223.12,
+        50.12
+      ],
+      [
+        70.6,
+        66.4
+      ],
+      [
+        151.0,
+        78.71
+      ],
+      [
+        84.0,
+        105.29
+      ],
+      [
+        120.0,
+        91.0
+      ],
+      [
+        195.5,
+        226.0
+      ],
+      [
+        195.71,
+        220.0
+      ],
+      [
+        248.0,
+        223.0
+      ]
+    ]
+  },
+  {
+    "id": "umbra-anaerobia",
+    "sector": "anaerobes",
+    "name": "Umbra Anaerobia",
+    "meaning": "Breathless Shadow",
+    "expectedStars": 16,
+    "art": "art/constellations/umbra-anaerobia.webp",
+    "points": [
+      [
+        135.12,
+        45.12
+      ],
+      [
+        168.0,
+        46.71
+      ],
+      [
+        103.29,
+        77.0
+      ],
+      [
+        200.0,
+        79.5
+      ],
+      [
+        163.0,
+        107.0
+      ],
+      [
+        76.0,
+        115.71
+      ],
+      [
+        229.0,
+        115.71
+      ],
+      [
+        60.0,
+        160.0
+      ],
+      [
+        133.38,
+        154.25
+      ],
+      [
+        246.29,
+        159.0
+      ],
+      [
+        123.0,
+        170.0
+      ],
+      [
+        182.71,
+        171.0
+      ],
+      [
+        43.75,
+        205.62
+      ],
+      [
+        103.12,
+        205.88
+      ],
+      [
+        195.88,
+        205.88
+      ],
+      [
+        259.71,
+        206.0
+      ]
+    ]
+  },
+  {
+    "id": "spirillum-serpens",
+    "sector": "curved-intracellular",
+    "name": "Spirillum Serpens",
+    "meaning": "Spiral Serpent",
+    "expectedStars": 5,
+    "art": "art/constellations/spirillum-serpens.webp",
+    "points": [
+      [
+        116.0,
+        38.0
+      ],
+      [
+        158.0,
+        57.5
+      ],
+      [
+        145.5,
+        172.5
+      ],
+      [
+        187.0,
+        187.0
+      ],
+      [
+        175.12,
+        214.12
+      ]
+    ]
+  },
+  {
+    "id": "hepar-aureus",
+    "sector": "hepatitis",
+    "name": "Hepar Aureus",
+    "meaning": "Golden Liver",
+    "expectedStars": 1,
+    "art": "art/constellations/hepar-aureus.webp",
+    "points": [
+      [
+        142.0,
+        105.5
+      ]
+    ]
+  },
+  {
+    "id": "ignis-recurrens",
+    "sector": "herpes",
+    "name": "Ignis Recurrens",
+    "meaning": "Returning Flame",
+    "expectedStars": 1,
+    "art": "art/constellations/ignis-recurrens.webp",
+    "points": [
+      [
+        151.5,
+        125.0
+      ]
+    ]
+  },
+  {
+    "id": "pulmo-geminus",
+    "sector": "respiratory",
+    "name": "Pulmo Geminus",
+    "meaning": "Twin Lungs",
+    "expectedStars": 3,
+    "art": "art/constellations/pulmo-geminus.webp",
+    "points": [
+      [
+        155.0,
+        35.0
+      ],
+      [
+        51.59,
+        220.12
+      ],
+      [
+        251.71,
+        220.0
+      ]
+    ]
+  },
+  {
+    "id": "vector-geminus",
+    "sector": "arboviruses",
+    "name": "Vector Geminus",
+    "meaning": "Twin Carriers",
+    "expectedStars": 2,
+    "art": "art/constellations/vector-geminus.webp",
+    "points": [
+      [
+        49.6,
+        37.6
+      ],
+      [
+        270.29,
+        198.0
+      ]
+    ]
+  },
+  {
+    "id": "microscopium-electronicum",
+    "sector": "viral-other",
+    "name": "Microscopium Electronicum",
+    "meaning": "Electron Microscope",
+    "expectedStars": 8,
+    "art": "art/constellations/microscopium-electronicum.webp",
+    "points": [
+      [
+        123.59,
+        37.12
+      ],
+      [
+        141.0,
+        38.0
+      ],
+      [
+        157.12,
+        72.88
+      ],
+      [
+        166.0,
+        129.0
+      ],
+      [
+        126.88,
+        170.88
+      ],
+      [
+        161.0,
+        171.29
+      ],
+      [
+        151.38,
+        225.75
+      ],
+      [
+        205.0,
+        224.29
+      ]
+    ]
+  },
+  {
+    "id": "gemma-fermenti",
+    "sector": "yeasts",
+    "name": "Gemma Fermenti",
+    "meaning": "Budding Jewel",
+    "expectedStars": 12,
+    "art": "art/constellations/gemma-fermenti.webp",
+    "points": [
+      [
+        206.71,
+        33.0
+      ],
+      [
+        145.0,
+        61.0
+      ],
+      [
+        107.0,
+        70.0
+      ],
+      [
+        245.0,
+        63.0
+      ],
+      [
+        62.11,
+        111.72
+      ],
+      [
+        69.12,
+        101.88
+      ],
+      [
+        174.0,
+        95.0
+      ],
+      [
+        177.5,
+        107.5
+      ],
+      [
+        213.88,
+        129.12
+      ],
+      [
+        83.75,
+        186.62
+      ],
+      [
+        168.0,
+        182.0
+      ],
+      [
+        125.12,
+        219.12
+      ]
+    ]
+  },
+  {
+    "id": "calix-vinarius",
+    "sector": "yeasts",
+    "name": "Calix Vinarius",
+    "meaning": "Fermenting Cup",
+    "expectedStars": 11,
+    "art": "art/constellations/calix-vinarius.webp",
+    "points": [
+      [
+        87.5,
+        34.71
+      ],
+      [
+        99.0,
+        30.5
+      ],
+      [
+        149.0,
+        35.0
+      ],
+      [
+        211.0,
+        35.0
+      ],
+      [
+        208.88,
+        109.88
+      ],
+      [
+        110.0,
+        132.0
+      ],
+      [
+        161.0,
+        167.0
+      ],
+      [
+        163.0,
+        179.29
+      ],
+      [
+        152.88,
+        219.12
+      ],
+      [
+        165.0,
+        218.71
+      ],
+      [
+        198.88,
+        218.88
+      ]
+    ]
+  },
+  {
+    "id": "hyphae-regina",
+    "sector": "moulds",
+    "name": "Hyphae Regina",
+    "meaning": "Mycelial Queen",
+    "expectedStars": 17,
+    "art": "art/constellations/hyphae-regina.webp",
+    "points": [
+      [
+        149.25,
+        36.38
+      ],
+      [
+        70.0,
+        62.29
+      ],
+      [
+        241.29,
+        58.0
+      ],
+      [
+        88.88,
+        86.12
+      ],
+      [
+        154.12,
+        66.88
+      ],
+      [
+        155.0,
+        97.0
+      ],
+      [
+        202.25,
+        89.38
+      ],
+      [
+        117.12,
+        126.12
+      ],
+      [
+        157.0,
+        116.0
+      ],
+      [
+        163.0,
+        127.0
+      ],
+      [
+        154.0,
+        145.0
+      ],
+      [
+        155.0,
+        157.5
+      ],
+      [
+        151.0,
+        173.29
+      ],
+      [
+        239.0,
+        169.0
+      ],
+      [
+        155.0,
+        189.0
+      ],
+      [
+        198.5,
+        188.0
+      ],
+      [
+        152.12,
+        219.41
+      ]
+    ]
+  },
+  {
+    "id": "sporangium-nigrum",
+    "sector": "mucorales",
+    "name": "Sporangium Nigrum",
+    "meaning": "Black Sporangium",
+    "expectedStars": 12,
+    "art": "art/constellations/sporangium-nigrum.webp",
+    "points": [
+      [
+        164.5,
+        37.0
+      ],
+      [
+        171.0,
+        26.0
+      ],
+      [
+        168.0,
+        48.5
+      ],
+      [
+        179.88,
+        55.88
+      ],
+      [
+        185.29,
+        96.0
+      ],
+      [
+        165.0,
+        137.0
+      ],
+      [
+        172.29,
+        116.0
+      ],
+      [
+        173.0,
+        130.71
+      ],
+      [
+        159.0,
+        148.0
+      ],
+      [
+        150.71,
+        163.0
+      ],
+      [
+        147.88,
+        191.88
+      ],
+      [
+        148.0,
+        220.0
+      ]
+    ]
+  },
+  {
+    "id": "janus-biformis",
+    "sector": "dimorphic",
+    "name": "Janus Biformis",
+    "meaning": "Two-Faced One",
+    "expectedStars": 6,
+    "art": "art/constellations/janus-biformis.webp",
+    "points": [
+      [
+        136.12,
+        41.41
+      ],
+      [
+        170.12,
+        38.12
+      ],
+      [
+        73.88,
+        129.12
+      ],
+      [
+        230.0,
+        129.0
+      ],
+      [
+        136.0,
+        220.0
+      ],
+      [
+        170.0,
+        220.0
+      ]
+    ]
+  },
+  {
+    "id": "tinea-corona",
+    "sector": "dermatophytes",
+    "name": "Tinea Corona",
+    "meaning": "Ringed Crown",
+    "expectedStars": 7,
+    "art": "art/constellations/tinea-corona.webp",
+    "points": [
+      [
+        144.6,
+        35.4
+      ],
+      [
+        152.62,
+        44.75
+      ],
+      [
+        44.71,
+        93.0
+      ],
+      [
+        258.0,
+        90.0
+      ],
+      [
+        52.71,
+        166.0
+      ],
+      [
+        257.29,
+        172.0
+      ],
+      [
+        150.88,
+        211.12
+      ]
+    ]
+  },
+  {
+    "id": "silva-mycelialis",
+    "sector": "fungi-other",
+    "name": "Silva Mycelialis",
+    "meaning": "Mycelial Forest",
+    "expectedStars": 21,
+    "art": "art/constellations/silva-mycelialis.webp",
+    "points": [
+      [
+        103.0,
+        59.5
+      ],
+      [
+        188.29,
+        43.0
+      ],
+      [
+        84.0,
+        112.0
+      ],
+      [
+        116.71,
+        104.0
+      ],
+      [
+        172.0,
+        93.0
+      ],
+      [
+        215.12,
+        92.12
+      ],
+      [
+        153.71,
+        155.0
+      ],
+      [
+        228.5,
+        154.5
+      ],
+      [
+        61.0,
+        167.0
+      ],
+      [
+        65.88,
+        185.88
+      ],
+      [
+        95.29,
+        167.0
+      ],
+      [
+        133.0,
+        162.71
+      ],
+      [
+        161.71,
+        166.0
+      ],
+      [
+        180.5,
+        179.5
+      ],
+      [
+        254.5,
+        173.0
+      ],
+      [
+        54.12,
+        211.41
+      ],
+      [
+        120.0,
+        190.0
+      ],
+      [
+        230.71,
+        191.0
+      ],
+      [
+        257.0,
+        212.0
+      ],
+      [
+        129.71,
+        216.0
+      ],
+      [
+        150.6,
+        216.4
+      ]
+    ]
+  },
+  {
+    "id": "arbor-sporifera",
+    "sector": "fungi-other",
+    "name": "Arbor Sporifera",
+    "meaning": "Spore-Bearing Tree",
+    "expectedStars": 21,
+    "art": "art/constellations/arbor-sporifera.webp",
+    "points": [
+      [
+        159.4,
+        38.4
+      ],
+      [
+        224.0,
+        56.29
+      ],
+      [
+        80.0,
+        66.71
+      ],
+      [
+        92.5,
+        67.0
+      ],
+      [
+        155.88,
+        68.88
+      ],
+      [
+        220.12,
+        72.12
+      ],
+      [
+        115.88,
+        87.88
+      ],
+      [
+        153.5,
+        101.0
+      ],
+      [
+        195.0,
+        98.0
+      ],
+      [
+        136.0,
+        116.0
+      ],
+      [
+        157.0,
+        127.0
+      ],
+      [
+        176.88,
+        120.12
+      ],
+      [
+        91.12,
+        149.12
+      ],
+      [
+        143.41,
+        150.12
+      ],
+      [
+        154.12,
+        160.12
+      ],
+      [
+        155.0,
+        146.0
+      ],
+      [
+        133.24,
+        179.76
+      ],
+      [
+        155.0,
+        178.29
+      ],
+      [
+        110.0,
+        211.0
+      ],
+      [
+        154.12,
+        190.88
+      ],
+      [
+        153.5,
+        221.5
+      ]
+    ]
+  },
+  {
+    "id": "flagellum-ventis",
+    "sector": "protozoa",
+    "name": "Flagellum Ventis",
+    "meaning": "Windborne Swimmer",
+    "expectedStars": 13,
+    "art": "art/constellations/flagellum-ventis.webp",
+    "points": [
+      [
+        134.71,
+        63.0
+      ],
+      [
+        182.71,
+        86.0
+      ],
+      [
+        81.71,
+        100.0
+      ],
+      [
+        162.88,
+        112.12
+      ],
+      [
+        201.29,
+        96.0
+      ],
+      [
+        86.5,
+        129.0
+      ],
+      [
+        87.5,
+        116.5
+      ],
+      [
+        172.29,
+        120.0
+      ],
+      [
+        104.0,
+        155.0
+      ],
+      [
+        136.0,
+        156.71
+      ],
+      [
+        138.0,
+        169.0
+      ],
+      [
+        209.0,
+        175.71
+      ],
+      [
+        222.5,
+        218.5
+      ]
+    ]
+  },
+  {
+    "id": "oculus-ciliatus",
+    "sector": "protozoa",
+    "name": "Oculus Ciliatus",
+    "meaning": "Ciliated Eye",
+    "expectedStars": 12,
+    "art": "art/constellations/oculus-ciliatus.webp",
+    "points": [
+      [
+        106.12,
+        62.12
+      ],
+      [
+        176.88,
+        55.88
+      ],
+      [
+        245.0,
+        71.0
+      ],
+      [
+        97.0,
+        91.0
+      ],
+      [
+        107.0,
+        98.5
+      ],
+      [
+        185.5,
+        91.0
+      ],
+      [
+        35.88,
+        136.12
+      ],
+      [
+        258.0,
+        122.0
+      ],
+      [
+        31.5,
+        148.0
+      ],
+      [
+        258.0,
+        175.0
+      ],
+      [
+        110.0,
+        193.0
+      ],
+      [
+        186.0,
+        202.29
+      ]
+    ]
+  },
+  {
+    "id": "vermis-aeternus",
+    "sector": "helminths",
+    "name": "Vermis Aeternus",
+    "meaning": "Eternal Worm",
+    "expectedStars": 19,
+    "art": "art/constellations/vermis-aeternus.webp",
+    "points": [
+      [
+        100.71,
+        46.0
+      ],
+      [
+        124.0,
+        61.5
+      ],
+      [
+        64.0,
+        95.0
+      ],
+      [
+        127.0,
+        103.0
+      ],
+      [
+        141.0,
+        105.0
+      ],
+      [
+        58.29,
+        132.0
+      ],
+      [
+        175.0,
+        116.0
+      ],
+      [
+        242.25,
+        117.38
+      ],
+      [
+        68.6,
+        139.4
+      ],
+      [
+        99.0,
+        141.0
+      ],
+      [
+        227.0,
+        149.29
+      ],
+      [
+        93.0,
+        178.29
+      ],
+      [
+        142.88,
+        163.88
+      ],
+      [
+        191.0,
+        166.0
+      ],
+      [
+        106.4,
+        192.4
+      ],
+      [
+        107.88,
+        205.12
+      ],
+      [
+        184.11,
+        195.28
+      ],
+      [
+        132.5,
+        221.0
+      ],
+      [
+        158.0,
+        214.0
+      ]
+    ]
+  },
+  {
+    "id": "serpens-intestini",
+    "sector": "helminths",
+    "name": "Serpens Intestini",
+    "meaning": "Serpent of the Gut",
+    "expectedStars": 18,
+    "art": "art/constellations/serpens-intestini.webp",
+    "points": [
+      [
+        128.25,
+        59.38
+      ],
+      [
+        138.0,
+        37.71
+      ],
+      [
+        127.5,
+        71.5
+      ],
+      [
+        136.0,
+        82.71
+      ],
+      [
+        127.0,
+        97.0
+      ],
+      [
+        131.0,
+        109.29
+      ],
+      [
+        166.71,
+        95.0
+      ],
+      [
+        131.0,
+        130.0
+      ],
+      [
+        158.0,
+        114.5
+      ],
+      [
+        164.29,
+        127.0
+      ],
+      [
+        151.29,
+        148.0
+      ],
+      [
+        156.0,
+        159.71
+      ],
+      [
+        160.0,
+        138.5
+      ],
+      [
+        125.88,
+        164.88
+      ],
+      [
+        129.88,
+        209.88
+      ],
+      [
+        152.0,
+        196.71
+      ],
+      [
+        165.0,
+        188.71
+      ],
+      [
+        144.12,
+        221.41
+      ]
+    ]
+  },
+  {
+    "id": "acarius-venator",
+    "sector": "arthropods",
+    "name": "Acarius Venator",
+    "meaning": "Hunting Mite",
+    "expectedStars": 15,
+    "art": "art/constellations/acarius-venator.webp",
+    "points": [
+      [
+        90.12,
+        39.88
+      ],
+      [
+        154.38,
+        62.25
+      ],
+      [
+        212.12,
+        38.88
+      ],
+      [
+        143.41,
+        67.88
+      ],
+      [
+        119.0,
+        103.5
+      ],
+      [
+        129.5,
+        92.0
+      ],
+      [
+        188.29,
+        102.0
+      ],
+      [
+        199.0,
+        108.0
+      ],
+      [
+        118.0,
+        129.0
+      ],
+      [
+        63.0,
+        148.71
+      ],
+      [
+        119.29,
+        155.0
+      ],
+      [
+        190.71,
+        152.0
+      ],
+      [
+        127.0,
+        164.5
+      ],
+      [
+        155.88,
+        183.12
+      ],
+      [
+        96.6,
+        214.6
+      ]
+    ]
+  }
+]

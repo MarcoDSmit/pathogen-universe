@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bacteremia",
+    "name": "Bacteremia"
+  },
+  {
+    "id": "cellulitis",
+    "name": "Cellulitis"
+  },
+  {
+    "id": "erysipelas",
+    "name": "Erysipelas"
+  },
+  {
+    "id": "erysipelas-cellulitis",
+    "name": "Erysipelas Cellulitis"
+  },
+  {
+    "id": "impetigo",
+    "name": "Impetigo"
+  },
+  {
+    "id": "necrotizing-fasciitis",
+    "name": "Necrotizing Fasciitis"
+  },
+  {
+    "id": "pharyngitis",
+    "name": "Pharyngitis"
+  },
+  {
+    "id": "streptococcal-toxic-shock-syndrome",
+    "name": "Streptococcal Toxic Shock Syndrome"
+  },
+  {
+    "id": "infective-endocarditis",
+    "name": "Infective endocarditis"
+  },
+  {
+    "id": "brain-abscess",
+    "name": "Brain abscess"
+  },
+  {
+    "id": "liver-abscess",
+    "name": "Liver abscess"
+  },
+  {
+    "id": "empyema",
+    "name": "Empyema"
+  },
+  {
+    "id": "neutropenic-bacteremia",
+    "name": "Neutropenic bacteremia"
+  },
+  {
+    "id": "neutropenic-enterocolitis",
+    "name": "Neutropenic enterocolitis (typhlitis when cecum involved)"
+  }
+]

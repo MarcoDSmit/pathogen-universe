@@ -1,0 +1,67 @@
+{
+  "source_version": "0.5.4 (clinical evidence overlay; taxonomy base 0.5.2)",
+  "app_version": "0.5.6-illustrated-evidence-working-copy",
+  "total_entries": 2251,
+  "v052_records": 2235,
+  "v022_legacy_additions": [
+    "streptococcus-mutans",
+    "streptococcus-anginosus",
+    "streptococcus-constellatus",
+    "streptococcus-intermedius",
+    "streptococcus-parasanguinis",
+    "streptococcus-thermophilus"
+  ],
+  "source_title": "Manual of Clinical Microbiology, 11th edition (2015)",
+  "taxonomic_verification": "not_complete",
+  "clinical_verification": "not_complete",
+  "antimicrobial_guidance": "not_added_from_textbook",
+  "outer_orbit_archive": "Bacterial reserve genera and species are searchable. Other galaxies retain the outer-orbit archive.",
+  "maldi_reference_note": "selected 361 names from VITEK MS public FDA 510(k) K181412 claims; not prevalence or full/current manufacturer list",
+  "eucast_source": "EUCAST clinical breakpoints v16.1 (2026-06-24)",
+  "eucast_import": "organism scopes and clinical triage only; no breakpoints or prescribing data",
+  "archive_labels": "Reserve genus index and reserve species index",
+  "clinical_review_batch": {
+    "version": "clinical_review_batch_2026_11_03_v1",
+    "approved_claims": 6,
+    "affected_species": 4,
+    "clinical_topics": "syndromes and virulence only",
+    "status": "clinician_approved_evidence",
+    "taxonomy_and_treatment_unchanged": true
+  },
+  "clinical_evidence_engine": {
+    "version": "0.5.5",
+    "scope": [
+      "syndromes",
+      "virulence"
+    ],
+    "technical_archive": "public/technical/index.html",
+    "candidate_topic_review_only": true,
+    "previously_approved_claims": 6,
+    "fulltext_and_local_model_approval_required": true,
+    "no_auto_clinical_import": true
+  },
+  "review_workspace_status": "3 of 757 bacterial candidates human-approved; 9 candidates source-appraised; 748 still awaiting source appraisal",
+  "scientific_review_batches": [
+    {
+      "batch_id": "scientific-review-001",
+      "approved_claims": 3,
+      "approved_date": "2026-11-06",
+      "source_manifest": "reference/clinical_reviews/approved_scientific_review_001.json"
+    }
+  ],
+  "total_approved_clinical_claims": 9,
+  "sanford_additions": [
+    "candidatus-neoehrlichia-mikurensis",
+    "prevotella-pleuritidis",
+    "staphylococcus-caprae",
+    "enterobacter-bugandensis",
+    "capnocytophaga-stomatis",
+    "borrelia-mayonii",
+    "spirillum-minus",
+    "acinetobacter-seifertii",
+    "acinetobacter-dijkshoorniae",
+    "streptococcus-equi"
+  ],
+  "bacterial_constellation_roster": "Sanford clinical pages and named cross-references",
+  "non_bacterial_featured_planets_per_constellation_max": 15
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "penicillin-g-benzathine",
+    "name": "Benzathine penicillin G"
+  },
+  {
+    "id": "penicillin-g",
+    "name": "Penicillin G"
+  },
+  {
+    "id": "penicillin-v",
+    "name": "Penicillin V"
+  },
+  {
+    "id": "amoxicillin",
+    "name": "Amoxicillin"
+  },
+  {
+    "id": "cephalexin",
+    "name": "Cephalexin"
+  },
+  {
+    "id": "azithromycin",
+    "name": "Azithromycin"
+  },
+  {
+    "id": "clindamycin",
+    "name": "Clindamycin"
+  },
+  {
+    "id": "vancomycin",
+    "name": "Vancomycin"
+  },
+  {
+    "id": "linezolid",
+    "name": "Linezolid"
+  },
+  {
+    "id": "ceftriaxone",
+    "name": "Ceftriaxone"
+  },
+  {
+    "id": "cefazolin",
+    "name": "Cefazolin"
+  },
+  {
+    "id": "omadacycline",
+    "name": "Omadacycline"
+  },
+  {
+    "id": "trimethoprim-sulfamethoxazole",
+    "name": "Trimethoprim/sulfamethoxazole"
+  },
+  {
+    "id": "doxycycline",
+    "name": "Doxycycline"
+  },
+  {
+    "id": "fluoroquinolones",
+    "name": "Fluoroquinolones (class)"
+  },
+  {
+    "id": "daptomycin",
+    "name": "Daptomycin"
+  },
+  {
+    "id": "carbapenems",
+    "name": "Carbapenems (class)"
+  },
+  {
+    "id": "beta-lactam-beta-lactamase-inhibitors",
+    "name": "Beta-lactam/beta-lactamase inhibitor combinations (class)"
+  }
+]

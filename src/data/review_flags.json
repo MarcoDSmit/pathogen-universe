@@ -1,0 +1,87 @@
+[
+  {
+    "severity": "critical",
+    "field": "scope",
+    "issue": "Source heading combines Lancefield groups A, B, C, F, G. These represent different species; do not assign whole page to S. pyogenes automatically."
+  },
+  {
+    "severity": "high",
+    "field": "treatment_priority",
+    "issue": "Source primary regimens are not necessarily equipotent first-line choices. Priority needs syndrome-specific review."
+  },
+  {
+    "severity": "high",
+    "field": "pediatric_benzathine",
+    "issue": "Source describes combination with procaine penicillin for <27 kg; CDC recommends benzathine penicillin G 600,000 units IM. Must verify before use."
+  },
+  {
+    "severity": "high",
+    "field": "pediatric_azithromycin",
+    "issue": "Source gives 12 mg/kg daily for five days, while CDC describes 12 mg/kg once then 6 mg/kg days 2–5. Review divergence."
+  },
+  {
+    "severity": "high",
+    "field": "cellulitis_regimens",
+    "issue": "Broad empiric MRSA-active treatment and targeted GAS treatment are mixed; must classify by setting."
+  },
+  {
+    "severity": "high",
+    "field": "bacteremia",
+    "issue": "Adjunctive clindamycin or linezolid may be context dependent; review invasive disease versus uncomplicated bacteraemia."
+  },
+  {
+    "severity": "medium",
+    "field": "stewardship",
+    "issue": "Source discourages TMP/SMX and fluoroquinolones for invasive disease while acknowledging some skin/soft-tissue evidence; maintain context-specific restrictions."
+  },
+  {
+    "severity": "medium",
+    "field": "pediatric_amoxicillin",
+    "issue": "Duration unspecified in supplied pediatric regimen; do not fill from inference."
+  },
+  {
+    "severity": "medium",
+    "field": "taxonomy",
+    "issue": "NCBI taxonomy identifier not yet retrieved."
+  },
+  {
+    "severity": "medium",
+    "field": "omadacycline",
+    "issue": "Complex dosing options collapsed to review placeholder, not ready for prescribing display."
+  },
+  {
+    "severity": "high",
+    "field": "viridans_neutropenic_bacteremia",
+    "issue": "Source lists vancomycin for viridans bloodstream infection in neutropenic hosts; not monotherapy for febrile neutropenia. Check local empiric broad-spectrum protocol."
+  },
+  {
+    "severity": "high",
+    "field": "viridans_beta_lactam_resistance",
+    "issue": "Review source claims on resistance in neutropenic isolates and whether empiric choices should differ by setting."
+  },
+  {
+    "severity": "high",
+    "field": "viridans_endocarditis_duration",
+    "issue": "Endocarditis treatment duration depends on susceptibilities, valve type, clinical setting and guidelines; not imported from referenced linked page."
+  },
+  {
+    "severity": "medium",
+    "field": "viridans_daptomycin",
+    "issue": "Source advises against daptomycin due to rapid resistance; preserve as stewardship warning, not invented 0 rating."
+  },
+  {
+    "severity": "medium",
+    "field": "viridans_rating_matrix",
+    "issue": "No specific ++, +, ±, 0, ? values provided. Leave ratings table unchanged."
+  },
+  {
+    "severity": "medium",
+    "field": "viridans_dosing",
+    "issue": "Vancomycin source dosing is not patient-specific or necessarily reflective of current AUC-guided dosing standards."
+  },
+  {
+    "severity": "medium",
+    "field": "viridans_group_taxonomy",
+    "issue": "Viridans is a clinical non-taxonomic group overlapping the anginosus group; remaining member assignments need review. S. sanguis merged into S. sanguinis (NCBI 1305)."
+  }
+]

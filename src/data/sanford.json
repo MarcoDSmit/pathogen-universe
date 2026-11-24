@@ -1,0 +1,1616 @@
+{
+  "source": {
+    "title": "The Sanford Guide to Antimicrobial Therapy",
+    "url": "https://www.sanfordguide.com/",
+    "accessedOn": "2026-11-14",
+    "captureFile": "Sanford-notes (1).txt",
+    "captureSha256": "b979643f51e6c1e757a71f0f4c1517406a07b3fd23fc0b111c64d8516c8f6368"
+  },
+  "entries": [
+    {
+      "id": "sanford-1",
+      "topic": "Achromobacter xylosoxidans",
+      "scope": "species",
+      "lineStart": 1,
+      "lineEnd": 44,
+      "organismIds": [
+        "achromobacter-xylosoxidans"
+      ],
+      "summary": "Achromobacter xylosoxidans is an environmental nonfermenter associated with bloodstream and catheter infections, meningitis, pneumonia, urinary infection and keratitis. It can also be recovered from respiratory specimens in cystic fibrosis."
+    },
+    {
+      "id": "sanford-46",
+      "topic": "Acinetobacter baumannii–calcoaceticus complex",
+      "scope": "complex",
+      "lineStart": 46,
+      "lineEnd": 164,
+      "organismIds": [
+        "acinetobacter-baumannii",
+        "acinetobacter-calcoaceticus"
+      ],
+      "summary": "This complex causes hospital-acquired infections including ventilator-associated pneumonia, wound and bone infection, urinary infection, meningitis and ocular infection. Bloodstream infection may accompany a focal infection."
+    },
+    {
+      "id": "sanford-177",
+      "topic": "Actinobaculum schaalii",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 177,
+      "lineEnd": 182,
+      "organismIds": [
+        "actinobaculum-schaalii"
+      ],
+      "summary": "A genitourinary commensal and uncommon cause of human infection."
+    },
+    {
+      "id": "sanford-335",
+      "topic": "Actinomycosis",
+      "scope": "syndrome",
+      "lineStart": 335,
+      "lineEnd": 372,
+      "organismIds": [],
+      "summary": "Actinomycosis can manifest as cervicofacial swelling with sinus tracts, abdominal masses or fistulas, pelvic abscess or chronic pulmonary disease that resembles malignancy or other lung infections."
+    },
+    {
+      "id": "sanford-374",
+      "topic": "Aerococcus urinae and Aerococcus sanguinicola",
+      "scope": "multi-species",
+      "lineStart": 374,
+      "lineEnd": 401,
+      "organismIds": [
+        "aerococcus-urinae",
+        "aerococcus-sanguinicola"
+      ],
+      "summary": "Both species are associated with urinary tract infection. A. urinae cystitis is particularly noted in older patients with predisposing conditions. Cultures can be confused with alpha-hemolytic streptococci."
+    },
+    {
+      "id": "sanford-183",
+      "topic": "Aerococcus viridans",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 183,
+      "lineEnd": 188,
+      "organismIds": [
+        "aerococcus-viridans"
+      ],
+      "summary": "An environmental opportunist occasionally reported in urinary and bloodstream infections."
+    },
+    {
+      "id": "sanford-189",
+      "topic": "Alcaligenes faecalis",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 189,
+      "lineEnd": 194,
+      "organismIds": [
+        "alcaligenes-faecalis"
+      ],
+      "summary": "An environmental gram-negative nonfermenter that can occasionally cause opportunistic infection."
+    },
+    {
+      "id": "sanford-195",
+      "topic": "Alloscardovia omnicolens",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 195,
+      "lineEnd": 201,
+      "organismIds": [
+        "alloscardovia-omnicolens"
+      ],
+      "summary": "A gut commensal occasionally isolated in infection, often alongside other organisms."
+    },
+    {
+      "id": "sanford-202",
+      "topic": "Anaerococcus spp.",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 202,
+      "lineEnd": 207,
+      "organismIds": [],
+      "summary": "These anaerobic cocci colonize skin and mucosal sites and can occur in polymicrobial infections."
+    },
+    {
+      "id": "sanford-536",
+      "topic": "Anthrax overview",
+      "scope": "syndrome",
+      "lineStart": 536,
+      "lineEnd": 554,
+      "organismIds": [
+        "bacillus-anthracis"
+      ],
+      "summary": "Human anthrax can follow exposure to infected animals or animal products. Clinical forms include cutaneous, inhalational and gastrointestinal disease, with possible systemic involvement."
+    },
+    {
+      "id": "sanford-556",
+      "topic": "Bacillus cereus",
+      "scope": "species",
+      "lineStart": 556,
+      "lineEnd": 574,
+      "organismIds": [
+        "bacillus-cereus"
+      ],
+      "summary": "B. cereus causes foodborne illness, including an enterotoxin-mediated diarrheal form. Bacillus isolates in other settings can represent contamination or invasive infection, depending on clinical context."
+    },
+    {
+      "id": "sanford-736",
+      "topic": "Bacteroides fragilis group",
+      "scope": "group",
+      "lineStart": 736,
+      "lineEnd": 760,
+      "organismIds": [
+        "bacteroides-fragilis"
+      ],
+      "summary": "The B. fragilis group comprises strict anaerobes common in the gut. They are implicated in infections involving intestinal flora, including secondary peritonitis. Bacteremia can seed distant sites."
+    },
+    {
+      "id": "sanford-2-7699",
+      "topic": "Bacteroides, Prevotella and Parabacteroides infections",
+      "scope": "shared topic",
+      "lineStart": 7699,
+      "lineEnd": 7732,
+      "organismIds": [
+        "bacteroides-fragilis",
+        "parabacteroides-distasonis",
+        "prevotella-melaninogenica",
+        "prevotella-nigrescens",
+        "prevotella-pleuritidis"
+      ],
+      "summary": "This shared topic describes anaerobes in abdominal and gynecologic infections and in deep abscesses. It identifies P. nigrescens and P. pleuritidis as oral flora associated with periodontal disease and notes occasional abscesses at other sites with P. pleuritidis.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-708",
+      "topic": "Bacteroides, Prevotella and Parabacteroides overview",
+      "scope": "group",
+      "lineStart": 708,
+      "lineEnd": 720,
+      "organismIds": [],
+      "summary": "The overview groups Bacteroides, Prevotella and Parabacteroides as anaerobic gram-negative bacilli and indexes individual organisms."
+    },
+    {
+      "id": "sanford-885",
+      "topic": "Bartonella bacilliformis",
+      "scope": "species",
+      "lineStart": 885,
+      "lineEnd": 935,
+      "organismIds": [
+        "bartonella-bacilliformis"
+      ],
+      "summary": "Andean sand fly-borne B. bacilliformis causes Carrion disease. Acute Oroya fever involves bacteremia and hemolysis. Verruga peruana manifests as vascular skin papules or nodules."
+    },
+    {
+      "id": "sanford-788",
+      "topic": "Bartonella henselae",
+      "scope": "species",
+      "lineStart": 788,
+      "lineEnd": 854,
+      "organismIds": [
+        "bartonella-henselae"
+      ],
+      "summary": "Cat-scratch disease commonly presents as regional lymphadenitis after cat contact. Disseminated disease can involve the liver, spleen, eyes or nervous system."
+    },
+    {
+      "id": "sanford-762",
+      "topic": "Bartonella overview",
+      "scope": "genus",
+      "lineStart": 762,
+      "lineEnd": 786,
+      "organismIds": [
+        "bartonella-bacilliformis",
+        "bartonella-henselae",
+        "bartonella-quintana"
+      ],
+      "summary": "Human Bartonella syndromes vary by species and host immunity. The guide describes cat-associated B. henselae, louse-borne B. quintana and sand fly-borne B. bacilliformis."
+    },
+    {
+      "id": "sanford-856",
+      "topic": "Bartonella quintana",
+      "scope": "species",
+      "lineStart": 856,
+      "lineEnd": 883,
+      "organismIds": [
+        "bartonella-quintana"
+      ],
+      "summary": "Body lice transmit B. quintana. Trench fever can include headache, bone pain and recurrent or persistent fever. Other presentations include bacteremia, endocarditis and bacillary angiomatosis."
+    },
+    {
+      "id": "sanford-2-7319",
+      "topic": "Beta-hemolytic streptococci and Streptococcus pyogenes",
+      "scope": "group",
+      "lineStart": 7319,
+      "lineEnd": 7391,
+      "organismIds": [
+        "streptococcus-pyogenes"
+      ],
+      "summary": "Group A streptococcus can cause pharyngitis, impetigo, erysipelas, necrotizing fasciitis, bacteremia and toxic shock. The shared page also covers other beta-hemolytic streptococci.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-937",
+      "topic": "Bordetella pertussis",
+      "scope": "species",
+      "lineStart": 937,
+      "lineEnd": 997,
+      "organismIds": [
+        "bordetella-pertussis"
+      ],
+      "summary": "Pertussis typically progresses from catarrhal symptoms to paroxysmal cough and then convalescence. Pneumonia can occur."
+    },
+    {
+      "id": "sanford-1927",
+      "topic": "Botulism",
+      "scope": "syndrome",
+      "lineStart": 1927,
+      "lineEnd": 1983,
+      "organismIds": [
+        "clostridium-botulinum",
+        "clostridium-baratii",
+        "clostridium-butyricum"
+      ],
+      "summary": "Botulism is toxin-mediated acute paralysis. C. botulinum is the principal cause, and C. baratii and C. butyricum are less frequent causes. Foodborne disease involves preformed toxin, while wound disease involves toxin production at the infected site."
+    },
+    {
+      "id": "sanford-1176",
+      "topic": "Burkholderia cepacia complex",
+      "scope": "complex",
+      "lineStart": 1176,
+      "lineEnd": 1206,
+      "organismIds": [
+        "burkholderia-cepacia",
+        "burkholderia-cenocepacia",
+        "burkholderia-multivorans"
+      ],
+      "summary": "The B. cepacia complex includes B. cepacia, B. cenocepacia and B. multivorans. Pulmonary infection is especially relevant in cystic fibrosis and healthcare settings."
+    },
+    {
+      "id": "sanford-1164",
+      "topic": "Burkholderia overview",
+      "scope": "genus",
+      "lineStart": 1164,
+      "lineEnd": 1174,
+      "organismIds": [],
+      "summary": "The overview indexes the B. cepacia complex and melioidosis."
+    },
+    {
+      "id": "sanford-1208",
+      "topic": "Burkholderia pseudomallei",
+      "scope": "species",
+      "lineStart": 1208,
+      "lineEnd": 1246,
+      "organismIds": [
+        "burkholderia-pseudomallei"
+      ],
+      "summary": "Melioidosis can cause pneumonia, bacteremia and sepsis, skin or deep abscesses, and bone, joint or central nervous system infection."
+    },
+    {
+      "id": "sanford-1282",
+      "topic": "Campylobacter fetus",
+      "scope": "species",
+      "lineStart": 1282,
+      "lineEnd": 1316,
+      "organismIds": [
+        "campylobacter-fetus"
+      ],
+      "summary": "C. fetus is associated with systemic or focal infections, particularly in older, debilitated or immunocompromised patients. Recognized manifestations include meningitis, endovascular infection and prosthetic-material infection."
+    },
+    {
+      "id": "sanford-1318",
+      "topic": "Campylobacter gracilis",
+      "scope": "species",
+      "lineStart": 1318,
+      "lineEnd": 1330,
+      "organismIds": [
+        "campylobacter-gracilis"
+      ],
+      "summary": "This anaerobic oral organism is associated with periodontal and pleuropulmonary disease and only occasionally bacteremia."
+    },
+    {
+      "id": "sanford-1332",
+      "topic": "Campylobacter jejuni",
+      "scope": "syndrome-specific",
+      "lineStart": 1332,
+      "lineEnd": 1360,
+      "organismIds": [
+        "campylobacter-jejuni"
+      ],
+      "summary": "C. jejuni commonly causes foodborne gastroenteritis, often with fever. Poultry is a major reservoir."
+    },
+    {
+      "id": "sanford-1248",
+      "topic": "Campylobacter jejuni and Campylobacter coli",
+      "scope": "multi-species",
+      "lineStart": 1248,
+      "lineEnd": 1280,
+      "organismIds": [
+        "campylobacter-jejuni",
+        "campylobacter-coli"
+      ],
+      "summary": "C. jejuni and C. coli cause clinically similar acute diarrheal illness after food or water exposure. Reported sequelae include Guillain–Barré syndrome, reactive arthritis and irritable bowel syndrome."
+    },
+    {
+      "id": "sanford-5485",
+      "topic": "Candidatus Neoehrlichia mikurensis",
+      "scope": "species",
+      "lineStart": 5485,
+      "lineEnd": 5509,
+      "organismIds": [
+        "candidatus-neoehrlichia-mikurensis"
+      ],
+      "summary": "Tick-borne neoehrlichiosis can cause systemic inflammation and fever, especially with hematologic or autoimmune disease, immunosuppression or asplenia. The organism infects vascular endothelium. The guide describes vascular and thromboembolic complications and prolonged carriage. It describes detection by PCR from plasma or buffy coat."
+    },
+    {
+      "id": "sanford-1362",
+      "topic": "Capnocytophaga canimorsus",
+      "scope": "species",
+      "lineStart": 1362,
+      "lineEnd": 1423,
+      "organismIds": [
+        "capnocytophaga-canimorsus"
+      ],
+      "summary": "C. canimorsus can cause fulminant sepsis or meningitis after dog or cat exposure. Asplenia, heavy alcohol use and cirrhosis are risk factors."
+    },
+    {
+      "id": "sanford-3946",
+      "topic": "Chancroid",
+      "scope": "syndrome",
+      "lineStart": 3946,
+      "lineEnd": 3982,
+      "organismIds": [
+        "haemophilus-ducreyi"
+      ],
+      "summary": "H. ducreyi causes chancroid, with painful genital ulceration and regional adenopathy. It has also been reported in cutaneous ulcers in children."
+    },
+    {
+      "id": "sanford-1478",
+      "topic": "Chlamydia pneumoniae",
+      "scope": "species",
+      "lineStart": 1478,
+      "lineEnd": 1502,
+      "organismIds": [
+        "chlamydia-pneumoniae"
+      ],
+      "summary": "C. pneumoniae can cause atypical community-acquired pneumonia with dry cough and sore throat. Serology may cross-react with C. psittaci."
+    },
+    {
+      "id": "sanford-1505",
+      "topic": "Chlamydia psittaci",
+      "scope": "species",
+      "lineStart": 1505,
+      "lineEnd": 1536,
+      "organismIds": [
+        "chlamydia-psittaci"
+      ],
+      "summary": "Psittacosis is linked to exposure to birds or their excreta. Fever, headache and dry cough are common, and pneumonia can occasionally be severe."
+    },
+    {
+      "id": "sanford-1425",
+      "topic": "Chlamydia trachomatis",
+      "scope": "species",
+      "lineStart": 1425,
+      "lineEnd": 1476,
+      "organismIds": [
+        "chlamydia-trachomatis"
+      ],
+      "summary": "Serovars A, B, Ba and C cause trachoma. D through K are associated with urogenital disease, and L1 through L3 cause lymphogranuloma venereum."
+    },
+    {
+      "id": "sanford-1676",
+      "topic": "Citrobacter freundii",
+      "scope": "species",
+      "lineStart": 1676,
+      "lineEnd": 1789,
+      "organismIds": [
+        "citrobacter-freundii"
+      ],
+      "summary": "The guide discusses C. freundii in the context of Citrobacter urinary and invasive infections."
+    },
+    {
+      "id": "sanford-1565",
+      "topic": "Citrobacter koseri",
+      "scope": "species",
+      "lineStart": 1565,
+      "lineEnd": 1674,
+      "organismIds": [
+        "citrobacter-koseri"
+      ],
+      "summary": "The guide discusses C. koseri in the context of Citrobacter urinary and invasive infections."
+    },
+    {
+      "id": "sanford-1538",
+      "topic": "Citrobacter overview",
+      "scope": "genus",
+      "lineStart": 1538,
+      "lineEnd": 1560,
+      "organismIds": [],
+      "summary": "Citrobacter infections range from urinary infection to invasive abdominal, soft tissue, pulmonary and central nervous system infection."
+    },
+    {
+      "id": "sanford-1791",
+      "topic": "Clostridioides difficile",
+      "scope": "species",
+      "lineStart": 1791,
+      "lineEnd": 1911,
+      "organismIds": [
+        "clostridioides-difficile"
+      ],
+      "summary": "C. difficile toxin usually causes colitis. Enteritis is an uncommon presentation after colectomy. Risk factors include older age, hospitalization, systemic antibiotic exposure and gastrointestinal surgery."
+    },
+    {
+      "id": "sanford-1914",
+      "topic": "Clostridium bifermentans",
+      "scope": "species",
+      "lineStart": 1914,
+      "lineEnd": 1924,
+      "organismIds": [
+        "clostridium-bifermentans"
+      ],
+      "summary": "An anaerobic, spore-forming gram-positive rod reported as a cause of anaerobic infection."
+    },
+    {
+      "id": "sanford-1985",
+      "topic": "Clostridium perfringens",
+      "scope": "species",
+      "lineStart": 1985,
+      "lineEnd": 2006,
+      "organismIds": [
+        "clostridium-perfringens"
+      ],
+      "summary": "C. perfringens is associated with clostridial myonecrosis and can also cause biliary, pulmonary, intra-abdominal and genital tract infections."
+    },
+    {
+      "id": "sanford-2008",
+      "topic": "Clostridium tetani",
+      "scope": "species",
+      "lineStart": 2008,
+      "lineEnd": 2036,
+      "organismIds": [
+        "clostridium-tetani"
+      ],
+      "summary": "Tetanus is toxin-mediated and often recognized clinically from trismus and sustained muscle spasms, particularly in people with inadequate immunization. A negative culture does not exclude it."
+    },
+    {
+      "id": "sanford-2-7069",
+      "topic": "Coagulase-negative staphylococci",
+      "scope": "group",
+      "lineStart": 7069,
+      "lineEnd": 7093,
+      "organismIds": [
+        "staphylococcus-capitis",
+        "staphylococcus-epidermidis",
+        "staphylococcus-hominis",
+        "staphylococcus-lugdunensis",
+        "staphylococcus-haemolyticus"
+      ],
+      "summary": "These organisms commonly colonize skin and may contaminate cultures. True infections often involve implanted or vascular devices, including peritoneal dialysis catheters.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-208",
+      "topic": "Corynebacterium afermentans group",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 208,
+      "lineEnd": 214,
+      "organismIds": [
+        "corynebacterium-afermentans"
+      ],
+      "summary": "Coryneforms in this group may represent commensals or blood culture contaminants. Pathogenic isolation is uncommon."
+    },
+    {
+      "id": "sanford-215",
+      "topic": "Corynebacterium amycolatum",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 215,
+      "lineEnd": 221,
+      "organismIds": [
+        "corynebacterium-amycolatum"
+      ],
+      "summary": "A coryneform commensal that can contaminate blood cultures and occasionally cause genuine infection."
+    },
+    {
+      "id": "sanford-2317",
+      "topic": "Corynebacterium jeikeium",
+      "scope": "species",
+      "lineStart": 2317,
+      "lineEnd": 2340,
+      "organismIds": [
+        "corynebacterium-jeikeium"
+      ],
+      "summary": "A healthcare-associated cause of bacteremia, endocarditis and device-related infection, particularly in immunocompromised patients."
+    },
+    {
+      "id": "sanford-2170",
+      "topic": "Corynebacterium overview",
+      "scope": "genus",
+      "lineStart": 2170,
+      "lineEnd": 2183,
+      "organismIds": [],
+      "summary": "The genus overview indexes coryneform organisms and diphtheria topics."
+    },
+    {
+      "id": "sanford-222",
+      "topic": "Corynebacterium riegelii",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 222,
+      "lineEnd": 228,
+      "organismIds": [
+        "corynebacterium-riegelii"
+      ],
+      "summary": "A coryneform commensal that can contaminate blood cultures and occasionally cause genuine infection."
+    },
+    {
+      "id": "sanford-229",
+      "topic": "Corynebacterium striatum",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 229,
+      "lineEnd": 236,
+      "organismIds": [
+        "corynebacterium-striatum"
+      ],
+      "summary": "Can cause invasive infection, particularly in hospitalized people with immunocompromise or chronic illness. Coryneform isolates can also be contaminants."
+    },
+    {
+      "id": "sanford-237",
+      "topic": "Corynebacterium tuberculostearicum",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 237,
+      "lineEnd": 243,
+      "organismIds": [
+        "corynebacterium-tuberculostearicum"
+      ],
+      "summary": "A coryneform commensal that can contaminate blood cultures and occasionally cause genuine infection."
+    },
+    {
+      "id": "sanford-2573",
+      "topic": "Corynebacterium urealyticum",
+      "scope": "species",
+      "lineStart": 2573,
+      "lineEnd": 2588,
+      "organismIds": [
+        "corynebacterium-urealyticum"
+      ],
+      "summary": "An uncommon cause of urinary infection with struvite deposition and encrusted cystitis or pyelitis. Obstruction is a concern in renal transplant recipients."
+    },
+    {
+      "id": "sanford-2590",
+      "topic": "Coxiella burnetii",
+      "scope": "species",
+      "lineStart": 2590,
+      "lineEnd": 2669,
+      "organismIds": [
+        "coxiella-burnetii"
+      ],
+      "summary": "Q fever follows exposure to aerosolized material from infected livestock. Acute illness can include fever, atypical pneumonia and hepatitis."
+    },
+    {
+      "id": "sanford-2752",
+      "topic": "Dialister pneumosintes",
+      "scope": "species",
+      "lineStart": 2752,
+      "lineEnd": 2764,
+      "organismIds": [
+        "dialister-pneumosintes"
+      ],
+      "summary": "An anaerobic oral organism associated with periodontal disease and occasionally with intra-abdominal or soft tissue abscesses."
+    },
+    {
+      "id": "sanford-2342",
+      "topic": "Diphtheria",
+      "scope": "syndrome",
+      "lineStart": 2342,
+      "lineEnd": 2414,
+      "organismIds": [
+        "corynebacterium-diphtheriae"
+      ],
+      "summary": "Respiratory diphtheria can present with pharyngitis, cervical adenopathy and an adherent gray pseudomembrane from toxin-mediated mucosal necrosis. Toxin can also cause myocarditis."
+    },
+    {
+      "id": "sanford-2767",
+      "topic": "Ehrlichiosis and anaplasmosis",
+      "scope": "syndrome",
+      "lineStart": 2767,
+      "lineEnd": 2816,
+      "organismIds": [
+        "ehrlichia-chaffeensis",
+        "ehrlichia-ewingii",
+        "anaplasma-phagocytophilum"
+      ],
+      "summary": "Ehrlichia and Anaplasma infect leukocytes. This capture distinguishes monocytotropic ehrlichiosis due to E. chaffeensis and granulocytic anaplasmosis due to A. phagocytophilum. E. ewingii can also cause granulocytic ehrlichiosis with a similar presentation."
+    },
+    {
+      "id": "sanford-2818",
+      "topic": "Eikenella corrodens",
+      "scope": "species",
+      "lineStart": 2818,
+      "lineEnd": 2848,
+      "organismIds": [
+        "eikenella-corrodens"
+      ],
+      "summary": "An oral commensal associated with human bite and clenched-fist wound infections. It is also a HACEK organism implicated in infective endocarditis."
+    },
+    {
+      "id": "sanford-2850",
+      "topic": "Elizabethkingae meningoseptica",
+      "scope": "species",
+      "lineStart": 2850,
+      "lineEnd": 2870,
+      "organismIds": [
+        "elizabethkingia-meningoseptica"
+      ],
+      "summary": "A healthcare-associated gram-negative rod linked to meningitis outbreaks among preterm neonates. Pneumonia, bacteremia, meningitis and endocarditis have been reported in immunocompromised adults. Soft tissue infection and bacteremia have also been reported in immunocompetent hosts."
+    },
+    {
+      "id": "sanford-3503",
+      "topic": "Enteroaggregative Escherichia coli",
+      "scope": "pathotype",
+      "lineStart": 3503,
+      "lineEnd": 3530,
+      "organismIds": [
+        "escherichia-coli"
+      ],
+      "summary": "Enteroaggregative E. coli is a diarrheagenic pathotype associated with acute watery diarrhea and occasional persistent diarrhea, especially in infants or people living with HIV."
+    },
+    {
+      "id": "sanford-244",
+      "topic": "Enterobacter bugandensis",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 244,
+      "lineEnd": 249,
+      "organismIds": [],
+      "summary": "A human gut inhabitant and uncommon pathogen within the Enterobacter cloacae complex."
+    },
+    {
+      "id": "sanford-3026",
+      "topic": "Enterobacter cloacae complex",
+      "scope": "complex",
+      "lineStart": 3026,
+      "lineEnd": 3157,
+      "organismIds": [
+        "enterobacter-cloacae",
+        "enterobacter-hormaechei"
+      ],
+      "summary": "The E. cloacae complex, including E. cloacae and E. hormaechei, causes infections in both immunocompetent and immunocompromised hosts."
+    },
+    {
+      "id": "sanford-3292",
+      "topic": "Enterococcus faecalis",
+      "scope": "species",
+      "lineStart": 3292,
+      "lineEnd": 3319,
+      "organismIds": [
+        "enterococcus-faecalis"
+      ],
+      "summary": "The guide distinguishes E. faecalis cystitis from systemic infection."
+    },
+    {
+      "id": "sanford-3321",
+      "topic": "Enterococcus faecium",
+      "scope": "species",
+      "lineStart": 3321,
+      "lineEnd": 3352,
+      "organismIds": [
+        "enterococcus-faecium"
+      ],
+      "summary": "The guide distinguishes E. faecium cystitis from systemic infection."
+    },
+    {
+      "id": "sanford-3354",
+      "topic": "Erysipelothrix rhusiopathiae",
+      "scope": "species",
+      "lineStart": 3354,
+      "lineEnd": 3379,
+      "organismIds": [
+        "erysipelothrix-rhusiopathiae"
+      ],
+      "summary": "Animal contact, especially handling fish, can lead to localized or diffuse skin disease. Bacteremia and endocarditis also occur."
+    },
+    {
+      "id": "sanford-3381",
+      "topic": "Escherichia coli",
+      "scope": "species",
+      "lineStart": 3381,
+      "lineEnd": 3501,
+      "organismIds": [
+        "escherichia-coli"
+      ],
+      "summary": "E. coli causes urinary infections and can cause severe abdominal, soft tissue, lung and central nervous system infections."
+    },
+    {
+      "id": "sanford-3532",
+      "topic": "Francisella tularensis",
+      "scope": "species",
+      "lineStart": 3532,
+      "lineEnd": 3603,
+      "organismIds": [
+        "francisella-tularensis"
+      ],
+      "summary": "Tularemia follows exposure to infected animal tissue, aerosol or biting arthropods. Ulceroglandular disease is a recognized presentation, and severe cases can progress to shock."
+    },
+    {
+      "id": "sanford-3605",
+      "topic": "Fusobacterium necrophorum",
+      "scope": "species",
+      "lineStart": 3605,
+      "lineEnd": 3642,
+      "organismIds": [
+        "fusobacterium-necrophorum"
+      ],
+      "summary": "F. necrophorum is associated with pharyngotonsillitis and Lemierre syndrome, in which suppurative jugular thrombophlebitis can produce septic emboli. Liver and brain abscesses are also reported."
+    },
+    {
+      "id": "sanford-3644",
+      "topic": "Fusobacterium nucleatum",
+      "scope": "species",
+      "lineStart": 3644,
+      "lineEnd": 3655,
+      "organismIds": [
+        "fusobacterium-nucleatum"
+      ],
+      "summary": "An oral and intestinal commensal occasionally implicated in polymicrobial abscesses. The guide describes an association with gastrointestinal cancer."
+    },
+    {
+      "id": "sanford-3657",
+      "topic": "Gardnerella vaginalis",
+      "scope": "species",
+      "lineStart": 3657,
+      "lineEnd": 3683,
+      "organismIds": [
+        "gardnerella-vaginalis"
+      ],
+      "summary": "Associated with bacterial vaginosis, which may present with thin malodorous discharge, raised vaginal pH and clue cells."
+    },
+    {
+      "id": "sanford-3685",
+      "topic": "Gemella morbillorum",
+      "scope": "species",
+      "lineStart": 3685,
+      "lineEnd": 3700,
+      "organismIds": [
+        "gemella-morbillorum"
+      ],
+      "summary": "An oral commensal associated with endocarditis and abscesses."
+    },
+    {
+      "id": "sanford-5379",
+      "topic": "Gonococcal infection",
+      "scope": "syndrome",
+      "lineStart": 5379,
+      "lineEnd": 5444,
+      "organismIds": [
+        "neisseria-gonorrhoeae"
+      ],
+      "summary": "Gonococcal infection ranges from localized sexually transmitted infection to disseminated disease. Detection depends on the site and can use culture or nucleic acid testing."
+    },
+    {
+      "id": "sanford-250",
+      "topic": "Granulicatella spp.",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 250,
+      "lineEnd": 258,
+      "organismIds": [],
+      "summary": "Fastidious members of normal mucosal flora that can cause infective endocarditis."
+    },
+    {
+      "id": "sanford-4431",
+      "topic": "Granuloma inguinale",
+      "scope": "syndrome",
+      "lineStart": 4431,
+      "lineEnd": 4462,
+      "organismIds": [
+        "klebsiella-granulomatis"
+      ],
+      "summary": "K. granulomatis causes donovanosis, a progressive ulcerative disease with painless, vascular lesions that bleed easily."
+    },
+    {
+      "id": "sanford-3984",
+      "topic": "Haemophilus influenzae",
+      "scope": "species",
+      "lineStart": 3984,
+      "lineEnd": 4043,
+      "organismIds": [
+        "haemophilus-influenzae"
+      ],
+      "summary": "Encapsulated H. influenzae can cause invasive disease. Type b disease is vaccine-preventable. Nontypeable strains cause disease in adults and vaccinated children, and respiratory colonization is common."
+    },
+    {
+      "id": "sanford-4045",
+      "topic": "Helicobacter cinaedi",
+      "scope": "species",
+      "lineStart": 4045,
+      "lineEnd": 4069,
+      "organismIds": [
+        "helicobacter-cinaedi"
+      ],
+      "summary": "H. cinaedi can cause recurrent bacteremia or multifocal cellulitis, especially with immunocompromise. Osteomyelitis and vascular infection have also been reported."
+    },
+    {
+      "id": "sanford-4271",
+      "topic": "Helicobacter overview",
+      "scope": "genus",
+      "lineStart": 4271,
+      "lineEnd": 4276,
+      "organismIds": [],
+      "summary": "The genus overview indexes H. cinaedi and H. pylori."
+    },
+    {
+      "id": "sanford-4071",
+      "topic": "Helicobacter pylori",
+      "scope": "species",
+      "lineStart": 4071,
+      "lineEnd": 4169,
+      "organismIds": [
+        "helicobacter-pylori"
+      ],
+      "summary": "H. pylori commonly persists without symptoms and is associated with chronic active gastritis and gastric or duodenal ulceration."
+    },
+    {
+      "id": "sanford-4278",
+      "topic": "Kingella infections",
+      "scope": "genus",
+      "lineStart": 4278,
+      "lineEnd": 4310,
+      "organismIds": [],
+      "summary": "Kingella is associated with septic arthritis and hematogenous osteomyelitis in young children, as well as bacteremia and HACEK endocarditis."
+    },
+    {
+      "id": "sanford-4312",
+      "topic": "Klebsiella aerogenes",
+      "scope": "species",
+      "lineStart": 4312,
+      "lineEnd": 4428,
+      "organismIds": [
+        "klebsiella-aerogenes"
+      ],
+      "summary": "The guide places K. aerogenes among Klebsiella associated with urinary and other invasive infections."
+    },
+    {
+      "id": "sanford-4497",
+      "topic": "Klebsiella infections and the pneumoniae complex",
+      "scope": "shared topic",
+      "lineStart": 4497,
+      "lineEnd": 4618,
+      "organismIds": [
+        "klebsiella-pneumoniae",
+        "klebsiella-variicola",
+        "klebsiella-oxytoca"
+      ],
+      "summary": "The complex-level topic covers urinary and other invasive infection. Hypervirulent strains can cause metastatic infection, including liver abscess, in otherwise healthy hosts."
+    },
+    {
+      "id": "sanford-4874",
+      "topic": "Lactobacillus infections",
+      "scope": "genus",
+      "lineStart": 4874,
+      "lineEnd": 4889,
+      "organismIds": [],
+      "summary": "Lactobacillus bloodstream isolation in an immunocompromised patient with an intravenous line can represent a line-associated infection."
+    },
+    {
+      "id": "sanford-4811",
+      "topic": "Legionella infections",
+      "scope": "genus",
+      "lineStart": 4811,
+      "lineEnd": 4872,
+      "organismIds": [
+        "legionella-pneumophila"
+      ],
+      "summary": "Legionella spread through aerosol exposure and can cause community- or healthcare-associated pneumonia. They can survive in alveolar macrophages. Extrapulmonary infection is uncommon."
+    },
+    {
+      "id": "sanford-4891",
+      "topic": "Leuconostoc infections",
+      "scope": "genus",
+      "lineStart": 4891,
+      "lineEnd": 4907,
+      "organismIds": [],
+      "summary": "Leuconostoc is found in plants, food and the gastrointestinal tract. Rare human infections include catheter and prosthetic joint infection."
+    },
+    {
+      "id": "sanford-4909",
+      "topic": "Listeriosis",
+      "scope": "syndrome",
+      "lineStart": 4909,
+      "lineEnd": 4967,
+      "organismIds": [
+        "listeria-monocytogenes"
+      ],
+      "summary": "Listeriosis ranges from febrile gastroenteritis to bacteremia, neonatal sepsis, meningitis and rhombencephalitis. Pregnancy, extremes of age and immunocompromise increase concern for invasive disease."
+    },
+    {
+      "id": "sanford-2-6945",
+      "topic": "Methicillin-resistant Staphylococcus aureus",
+      "scope": "phenotype",
+      "lineStart": 6945,
+      "lineEnd": 7016,
+      "organismIds": [
+        "staphylococcus-aureus"
+      ],
+      "summary": "The MRSA topic covers bloodstream infection, endocarditis, skin abscesses, pneumonia and osteoarticular infection. For laboratory classification, the guide describes mecA and mecC and notes that some assays detect only one mechanism.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-6888",
+      "topic": "Methicillin-susceptible Staphylococcus aureus",
+      "scope": "phenotype",
+      "lineStart": 6888,
+      "lineEnd": 6944,
+      "organismIds": [
+        "staphylococcus-aureus"
+      ],
+      "summary": "The MSSA topic covers bloodstream infection, endocarditis, skin abscesses, pneumonia, osteomyelitis, septic arthritis and prosthetic joint infection.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-259",
+      "topic": "Micrococcus spp.",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 259,
+      "lineEnd": 264,
+      "organismIds": [],
+      "summary": "Micrococci are found in the environment and normal flora. Blood culture recovery can represent contamination, although genuine infection occurs."
+    },
+    {
+      "id": "sanford-5101",
+      "topic": "Moraxella catarrhalis",
+      "scope": "species",
+      "lineStart": 5101,
+      "lineEnd": 5121,
+      "organismIds": [
+        "moraxella-catarrhalis"
+      ],
+      "summary": "M. catarrhalis is associated with sinusitis, otitis media, pneumonia and exacerbations of chronic bronchitis."
+    },
+    {
+      "id": "sanford-5123",
+      "topic": "Morganella morganii",
+      "scope": "species",
+      "lineStart": 5123,
+      "lineEnd": 5243,
+      "organismIds": [
+        "morganella-morganii"
+      ],
+      "summary": "M. morganii is typically healthcare-associated and is frequently identified in urinary or postoperative wound infections."
+    },
+    {
+      "id": "sanford-298",
+      "topic": "Mycetoma",
+      "scope": "syndrome",
+      "lineStart": 298,
+      "lineEnd": 333,
+      "organismIds": [],
+      "summary": "Mycetoma is a chronic granulomatous subcutaneous infection caused by bacteria or fungi. A firm swelling, draining sinuses and grains are characteristic. The foot or lower limb is often involved."
+    },
+    {
+      "id": "sanford-5256",
+      "topic": "Mycoplasma genitalium",
+      "scope": "species",
+      "lineStart": 5256,
+      "lineEnd": 5295,
+      "organismIds": [
+        "mycoplasma-genitalium"
+      ],
+      "summary": "M. genitalium is associated with urethritis, cervicitis and pelvic inflammatory disease. Infection can be asymptomatic."
+    },
+    {
+      "id": "sanford-5297",
+      "topic": "Mycoplasma hominis",
+      "scope": "species",
+      "lineStart": 5297,
+      "lineEnd": 5327,
+      "organismIds": [
+        "mycoplasma-hominis"
+      ],
+      "summary": "M. hominis can colonize the urogenital tract and is associated with urogenital and reproductive tract infection. Invasive disease can occur in neonates and immunocompromised patients."
+    },
+    {
+      "id": "sanford-5245",
+      "topic": "Mycoplasma overview",
+      "scope": "genus",
+      "lineStart": 5245,
+      "lineEnd": 5254,
+      "organismIds": [],
+      "summary": "The overview indexes three cell-wall-deficient species covered in this export, M. genitalium, M. hominis and M. pneumoniae."
+    },
+    {
+      "id": "sanford-5329",
+      "topic": "Mycoplasma pneumoniae",
+      "scope": "species",
+      "lineStart": 5329,
+      "lineEnd": 5369,
+      "organismIds": [
+        "mycoplasma-pneumoniae"
+      ],
+      "summary": "M. pneumoniae can cause pharyngitis, tracheobronchitis and atypical pneumonia with persistent dry cough. Extrapulmonary manifestations include mucocutaneous eruption and neurologic, cardiac or joint involvement."
+    },
+    {
+      "id": "sanford-5446",
+      "topic": "Neisseria meningitidis",
+      "scope": "species",
+      "lineStart": 5446,
+      "lineEnd": 5482,
+      "organismIds": [
+        "neisseria-meningitidis"
+      ],
+      "summary": "N. meningitidis may be isolated from cerebrospinal fluid, blood or other sterile sites in invasive infection."
+    },
+    {
+      "id": "sanford-5371",
+      "topic": "Neisseria overview",
+      "scope": "genus",
+      "lineStart": 5371,
+      "lineEnd": 5377,
+      "organismIds": [],
+      "summary": "The genus overview indexes gonococcal and meningococcal topics."
+    },
+    {
+      "id": "sanford-5511",
+      "topic": "Nocardiosis",
+      "scope": "genus",
+      "lineStart": 5511,
+      "lineEnd": 5542,
+      "organismIds": [
+        "nocardia-nova",
+        "nocardia-farcinica",
+        "nocardia-cyriacigeorgica",
+        "nocardia-brasiliensis",
+        "nocardia-abscessus"
+      ],
+      "summary": "Nocardiosis can occur with or without immunocompromise. Human syndromes include pneumonia, lymphadenitis and brain abscess. Nocardia are slowly growing, filamentous and weakly acid-fast."
+    },
+    {
+      "id": "sanford-166",
+      "topic": "Non-pathogenic or Rare Bacteria",
+      "scope": "collection",
+      "lineStart": 166,
+      "lineEnd": 296,
+      "organismIds": [],
+      "summary": "Rare bacteria recovered from clinical samples may be commensals, contaminants or members of mixed cultures. Interpret isolation in its clinical and specimen context."
+    },
+    {
+      "id": "sanford-265",
+      "topic": "Ochrobactrum anthropi",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 265,
+      "lineEnd": 271,
+      "organismIds": [
+        "ochrobactrum-anthropi"
+      ],
+      "summary": "An environmental gram-negative rod and uncommon opportunistic human pathogen."
+    },
+    {
+      "id": "sanford-272",
+      "topic": "Pantoea agglomerans",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 272,
+      "lineEnd": 277,
+      "organismIds": [
+        "pantoea-agglomerans"
+      ],
+      "summary": "Primarily associated with plants, with occasional human infection."
+    },
+    {
+      "id": "sanford-5676",
+      "topic": "Parvimonas micra",
+      "scope": "species",
+      "lineStart": 5676,
+      "lineEnd": 5687,
+      "organismIds": [
+        "parvimonas-micra"
+      ],
+      "summary": "An anaerobic component of oral and gastrointestinal flora associated with odontogenic infection and occasional bacteremia or abscess."
+    },
+    {
+      "id": "sanford-5954",
+      "topic": "Pasteurella and animal bites",
+      "scope": "syndrome",
+      "lineStart": 5954,
+      "lineEnd": 5990,
+      "organismIds": [],
+      "summary": "Pasteurella colonizes the mouths of cats and dogs. Bites and sometimes licking can lead to human soft tissue infection or bacteremia."
+    },
+    {
+      "id": "sanford-5992",
+      "topic": "Peptoniphilus and Finegoldia",
+      "scope": "group",
+      "lineStart": 5992,
+      "lineEnd": 6015,
+      "organismIds": [
+        "finegoldia-magna"
+      ],
+      "summary": "Peptoniphilus and Finegoldia are anaerobic mucosal flora. The shared topic describes periodontal infection, endometritis and bacteremia, with occasional metastatic infection."
+    },
+    {
+      "id": "sanford-6067",
+      "topic": "Plesiomonas shigelloides",
+      "scope": "species",
+      "lineStart": 6067,
+      "lineEnd": 6101,
+      "organismIds": [
+        "plesiomonas-shigelloides"
+      ],
+      "summary": "A water-associated organism that can cause watery diarrhea or febrile dysentery, including after raw seafood exposure. Extraintestinal disease is reported, especially with immunocompromise or hepatobiliary disease."
+    },
+    {
+      "id": "sanford-6103",
+      "topic": "Porphyromonas endodontalis",
+      "scope": "species",
+      "lineStart": 6103,
+      "lineEnd": 6115,
+      "organismIds": [
+        "porphyromonas-endodontalis"
+      ],
+      "summary": "An anaerobic oral organism associated with odontogenic infection and occasional abscesses at other sites."
+    },
+    {
+      "id": "sanford-6215",
+      "topic": "Proteus infections",
+      "scope": "genus",
+      "lineStart": 6215,
+      "lineEnd": 6332,
+      "organismIds": [
+        "proteus-mirabilis",
+        "proteus-penneri",
+        "proteus-vulgaris"
+      ],
+      "summary": "Proteus urinary infection is often catheter-associated. Urease promotes alkaline urine and struvite stones, and biofilm formation is relevant to catheter infection."
+    },
+    {
+      "id": "sanford-6117",
+      "topic": "Pseudomonas aeruginosa",
+      "scope": "species",
+      "lineStart": 6117,
+      "lineEnd": 6213,
+      "organismIds": [
+        "pseudomonas-aeruginosa"
+      ],
+      "summary": "P. aeruginosa can cause ventilator-associated or other hospital-acquired pneumonia, urinary infection and bacteremia. Ecthyma gangrenosum can occur in neutropenic patients."
+    },
+    {
+      "id": "sanford-278",
+      "topic": "Raoultella spp.",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 278,
+      "lineEnd": 283,
+      "organismIds": [],
+      "summary": "Environmental and gastrointestinal organisms that occasionally cause opportunistic infection."
+    },
+    {
+      "id": "sanford-4620",
+      "topic": "Rhinoscleroma and ozena",
+      "scope": "syndrome",
+      "lineStart": 4620,
+      "lineEnd": 4652,
+      "organismIds": [
+        "klebsiella-rhinoscleromatis",
+        "klebsiella-ozaenae"
+      ],
+      "summary": "Rhinoscleroma is a chronic granulomatous nasal and respiratory tract infection. The capture links it to K. rhinoscleromatis and describes obstructive nodules and Mikulicz cells. It separately links K. ozaenae to ozena."
+    },
+    {
+      "id": "sanford-6334",
+      "topic": "Rhodococcus hoagii",
+      "scope": "species",
+      "lineStart": 6334,
+      "lineEnd": 6363,
+      "organismIds": [
+        "rhodococcus-equi"
+      ],
+      "summary": "This intracellular pathogen can cause subacute cavitary pneumonia resembling tuberculosis, particularly in immunocompromised patients. Hemoptysis and extrapulmonary abscesses can occur."
+    },
+    {
+      "id": "sanford-284",
+      "topic": "Rothia dentocariosa",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 284,
+      "lineEnd": 290,
+      "organismIds": [
+        "rothia-dentocariosa"
+      ],
+      "summary": "An oral commensal associated with periodontal disease and occasional bacteremia or endocarditis."
+    },
+    {
+      "id": "sanford-291",
+      "topic": "Rothia mucilaginosus",
+      "scope": "rare-bacteria subentry",
+      "lineStart": 291,
+      "lineEnd": 297,
+      "organismIds": [
+        "rothia-mucilaginosa"
+      ],
+      "summary": "An oral commensal that occasionally causes human infection."
+    },
+    {
+      "id": "sanford-2-6629",
+      "topic": "Salmonella infections",
+      "scope": "genus",
+      "lineStart": 6629,
+      "lineEnd": 6694,
+      "organismIds": [
+        "salmonella-enterica"
+      ],
+      "summary": "Food or water exposure can lead to gastroenteritis or enteric fever. Invasive disease can involve the bloodstream, vascular sites or meninges. Risk factors include immunocompromise, extremes of age and sickle cell disease.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-6695",
+      "topic": "Serratia marcescens",
+      "scope": "species",
+      "lineStart": 6695,
+      "lineEnd": 6808,
+      "organismIds": [
+        "serratia-marcescens"
+      ],
+      "summary": "The guide describes both localized and systemic infections in people with and without immunocompromise.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-6809",
+      "topic": "Shigellosis",
+      "scope": "genus",
+      "lineStart": 6809,
+      "lineEnd": 6860,
+      "organismIds": [
+        "shigella-boydii",
+        "shigella-dysenteriae",
+        "shigella-flexneri",
+        "shigella-sonnei"
+      ],
+      "summary": "Shigellosis typically causes acute febrile diarrhea that may be bloody. Hemolytic uremic syndrome is a recognized complication.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7017",
+      "topic": "Staphylococcus epidermidis",
+      "scope": "species",
+      "lineStart": 7017,
+      "lineEnd": 7042,
+      "organismIds": [
+        "staphylococcus-epidermidis"
+      ],
+      "summary": "A frequent culture contaminant and an important cause of infection involving vascular catheters, peritoneal dialysis catheters and implanted devices.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7094",
+      "topic": "Staphylococcus haemolyticus",
+      "scope": "species",
+      "lineStart": 7094,
+      "lineEnd": 7112,
+      "organismIds": [
+        "staphylococcus-haemolyticus"
+      ],
+      "summary": "This coagulase-negative staphylococcus is associated with intravascular catheter infection and other device-related infections.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7113",
+      "topic": "Staphylococcus lugdunensis",
+      "scope": "species",
+      "lineStart": 7113,
+      "lineEnd": 7136,
+      "organismIds": [
+        "staphylococcus-lugdunensis"
+      ],
+      "summary": "A coagulase-negative staphylococcus that can cause severe endocarditis, catheter-associated bacteremia, bone and joint infection, and skin and soft tissue infection.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-6861",
+      "topic": "Staphylococcus overview",
+      "scope": "genus",
+      "lineStart": 6861,
+      "lineEnd": 6887,
+      "organismIds": [],
+      "summary": "The overview indexes organism and syndrome topics for gram-positive staphylococci, including bacteremia, endocarditis and implanted-joint infection.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7137",
+      "topic": "Staphylococcus saprophyticus",
+      "scope": "species",
+      "lineStart": 7137,
+      "lineEnd": 7157,
+      "organismIds": [
+        "staphylococcus-saprophyticus"
+      ],
+      "summary": "A cause of uncomplicated urinary tract infection and occasional upper urinary tract infection. Novobiocin resistance is a laboratory identification clue.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7158",
+      "topic": "Stenotrophomonas maltophilia",
+      "scope": "species",
+      "lineStart": 7158,
+      "lineEnd": 7191,
+      "organismIds": [
+        "stenotrophomonas-maltophilia"
+      ],
+      "summary": "Can cause pneumonia, bloodstream infection and urinary tract infection, particularly in debilitated or immunocompromised patients. The guide also describes it in cystic fibrosis exacerbations.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7192",
+      "topic": "Streptobacillus moniliformis",
+      "scope": "species",
+      "lineStart": 7192,
+      "lineEnd": 7210,
+      "organismIds": [
+        "streptobacillus-moniliformis"
+      ],
+      "summary": "Rat-bite fever can present with fever, headache, myalgia, joint pain and a rash on the extremities. Blood or synovial fluid can be submitted for culture.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7211",
+      "topic": "Streptococcus agalactiae",
+      "scope": "species",
+      "lineStart": 7211,
+      "lineEnd": 7251,
+      "organismIds": [
+        "streptococcus-agalactiae"
+      ],
+      "summary": "Group B streptococcus causes neonatal sepsis and meningitis and peripartum infection. Invasive disease also occurs outside pregnancy, particularly in older people and those with chronic conditions or immunocompromise.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7252",
+      "topic": "Streptococcus anginosus group",
+      "scope": "group",
+      "lineStart": 7252,
+      "lineEnd": 7280,
+      "organismIds": [
+        "streptococcus-anginosus",
+        "streptococcus-intermedius",
+        "streptococcus-constellatus"
+      ],
+      "summary": "The S. anginosus group comprises three oral and gastrointestinal commensals associated with bacteremia, head and neck infections, empyema and deep abscesses, including in the brain, lung and liver. Endocarditis is uncommon.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7281",
+      "topic": "Streptococcus pneumoniae",
+      "scope": "species",
+      "lineStart": 7281,
+      "lineEnd": 7318,
+      "organismIds": [
+        "streptococcus-pneumoniae"
+      ],
+      "summary": "Pneumococci are gram-positive cocci typically seen in pairs or chains. This capture distinguishes central nervous system and nonmeningeal infection.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-999",
+      "topic": "Tick-borne illnesses overview",
+      "scope": "syndrome",
+      "lineStart": 999,
+      "lineEnd": 1159,
+      "organismIds": [],
+      "summary": "Ixodes exposure can lead to more than one infection. The guide highlights overlapping Lyme disease, babesiosis and anaplasmosis in the United States."
+    },
+    {
+      "id": "sanford-2-7470",
+      "topic": "Treponema pallidum and syphilis",
+      "scope": "syndrome",
+      "lineStart": 7470,
+      "lineEnd": 7530,
+      "organismIds": [
+        "treponema-pallidum"
+      ],
+      "summary": "Syphilis can be acquired sexually or transmitted congenitally. Early primary infection can precede detectable serology. The overview describes treponemal and nontreponemal tests, as well as direct detection from lesions.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7531",
+      "topic": "Ureaplasma infections",
+      "scope": "genus",
+      "lineStart": 7531,
+      "lineEnd": 7564,
+      "organismIds": [
+        "ureaplasma-parvum",
+        "ureaplasma-urealyticum"
+      ],
+      "summary": "Ureaplasma can colonize the lower genital tract and has also been associated with genitourinary and neonatal disease. The guide describes hyperammonemia in immunocompromised patients, particularly after lung transplant.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7583",
+      "topic": "Vibrio cholerae and cholera",
+      "scope": "syndrome",
+      "lineStart": 7583,
+      "lineEnd": 7622,
+      "organismIds": [
+        "vibrio-cholerae"
+      ],
+      "summary": "Cholera can follow ingestion of contaminated water or food and cause profuse watery diarrhea and rapid dehydration.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7565",
+      "topic": "Vibrio overview",
+      "scope": "genus",
+      "lineStart": 7565,
+      "lineEnd": 7582,
+      "organismIds": [],
+      "summary": "The overview lists Vibrio and related organism topics, with separate links for diarrheal illness, cellulitis, sepsis and necrotizing fasciitis.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7623",
+      "topic": "Vibrio parahaemolyticus",
+      "scope": "species",
+      "lineStart": 7623,
+      "lineEnd": 7663,
+      "organismIds": [
+        "vibrio-parahaemolyticus"
+      ],
+      "summary": "A marine and estuarine organism associated with seafood-borne gastroenteritis. Wound infection, cellulitis and bacteremia can occur, particularly with liver disease or diabetes.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7664",
+      "topic": "Vibrio vulnificus",
+      "scope": "species",
+      "lineStart": 7664,
+      "lineEnd": 7698,
+      "organismIds": [
+        "vibrio-vulnificus"
+      ],
+      "summary": "Exposure to seawater or brackish water through a wound can lead to severe soft tissue infection, including necrotizing fasciitis. The organism can also cause diarrhea and bacteremia.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    },
+    {
+      "id": "sanford-2-7392",
+      "topic": "Viridans streptococci",
+      "scope": "group",
+      "lineStart": 7392,
+      "lineEnd": 7430,
+      "organismIds": [],
+      "summary": "Viridans streptococci inhabit oral and other mucosal sites. The group is associated with endocarditis, brain abscess, empyema and bacteremia in neutropenia, especially in the setting of mucositis.",
+      "source": {
+        "title": "The Sanford Guide to Antimicrobial Therapy",
+        "url": "https://www.sanfordguide.com/",
+        "accessedOn": "2026-11-14",
+        "captureFile": "Sanford-notes (2).txt",
+        "captureSha256": "a89deaaff2a149eb010814323602deff73f48cdde5b07ee8553db1918ddd37fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clinicalSectors": [
+    {"id":"gram-positive-cocci","name":"Gram-positive cocci","subtitle":"Cocci · chains and clusters","x":260,"y":170,"color":"#c4a5e6"},
+    {"id":"gram-positive-rods","name":"Gram-positive rods","subtitle":"Bacilli and coryneforms","x":550,"y":125,"color":"#f0bc79"},
+    {"id":"gram-negative-cocci","name":"Gram-negative cocci","subtitle":"Neisseria and relatives","x":825,"y":175,"color":"#79d7d0"},
+    {"id":"gram-negative-rods","name":"Gram-negative rods","subtitle":"Enteric and non-fermenting","x":790,"y":405,"color":"#6eafdc"},
+    {"id":"acid-fast","name":"Acid-fast and related","subtitle":"Mycobacteria and relatives","x":485,"y":455,"color":"#e89585"},
+    {"id":"atypical","name":"Atypical / fastidious","subtitle":"Specialised identification","x":205,"y":385,"color":"#a1cc9b"}
+  ],
+  "taxonomicSectors": [
+    {"id":"bacillota","name":"Bacillota","subtitle":"Formerly Firmicutes (selected genera)","x":295,"y":190,"color":"#c4a5e6"},
+    {"id":"pseudomonadota","name":"Pseudomonadota","subtitle":"Formerly Proteobacteria (selected genera)","x":760,"y":225,"color":"#79d7d0"},
+    {"id":"actinomycetota","name":"Actinomycetota","subtitle":"Selected actinobacterial genera","x":440,"y":440,"color":"#e89585"},
+    {"id":"other-taxa","name":"Other lineages","subtitle":"Taxonomy expansion pending","x":790,"y":438,"color":"#a1cc9b"}
+  ],
+  "genera": [
+    {"id":"streptococcus","name":"Streptococcus","clinicalSector":"gram-positive-cocci","taxonomicSector":"bacillota","status":"available"},
+    {"id":"staphylococcus","name":"Staphylococcus","clinicalSector":"gram-positive-cocci","taxonomicSector":"bacillota","status":"navigation_only"},
+    {"id":"enterococcus","name":"Enterococcus","clinicalSector":"gram-positive-cocci","taxonomicSector":"bacillota","status":"navigation_only"},
+    {"id":"listeria","name":"Listeria","clinicalSector":"gram-positive-rods","taxonomicSector":"bacillota","status":"navigation_only"},
+    {"id":"bacillus","name":"Bacillus","clinicalSector":"gram-positive-rods","taxonomicSector":"bacillota","status":"navigation_only"},
+    {"id":"corynebacterium","name":"Corynebacterium","clinicalSector":"gram-positive-rods","taxonomicSector":"actinomycetota","status":"navigation_only"},
+    {"id":"neisseria","name":"Neisseria","clinicalSector":"gram-negative-cocci","taxonomicSector":"pseudomonadota","status":"navigation_only"},
+    {"id":"moraxella","name":"Moraxella","clinicalSector":"gram-negative-cocci","taxonomicSector":"pseudomonadota","status":"navigation_only"},
+    {"id":"escherichia","name":"Escherichia","clinicalSector":"gram-negative-rods","taxonomicSector":"pseudomonadota","status":"navigation_only"},
+    {"id":"klebsiella","name":"Klebsiella","clinicalSector":"gram-negative-rods","taxonomicSector":"pseudomonadota","status":"navigation_only"},
+    {"id":"pseudomonas","name":"Pseudomonas","clinicalSector":"gram-negative-rods","taxonomicSector":"pseudomonadota","status":"navigation_only"},
+    {"id":"mycobacterium","name":"Mycobacterium","clinicalSector":"acid-fast","taxonomicSector":"actinomycetota","status":"navigation_only"},
+    {"id":"mycoplasma","name":"Mycoplasma","clinicalSector":"atypical","taxonomicSector":"other-taxa","status":"navigation_only"},
+    {"id":"chlamydia","name":"Chlamydia","clinicalSector":"atypical","taxonomicSector":"other-taxa","status":"navigation_only"}
+  ]
+}

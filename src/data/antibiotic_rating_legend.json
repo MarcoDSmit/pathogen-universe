@@ -1,0 +1,40 @@
+{
+  "source": "Sanford Guide legend provided by user 2026-10-29",
+  "ratings": [
+    {
+      "code": "++",
+      "label": "Preferred",
+      "shortDefinition": "Recommended first-line or acceptable primary therapy in the relevant context.",
+      "displayOrder": 1
+    },
+    {
+      "code": "+",
+      "label": "Alternative",
+      "shortDefinition": "Potentially effective alternative, but less favourable than preferred options.",
+      "displayOrder": 2
+    },
+    {
+      "code": "±",
+      "label": "Limited utility",
+      "shortDefinition": "Usefulness depends on infection type, resistance, combination therapy, or other important limitations.",
+      "displayOrder": 3
+    },
+    {
+      "code": "0",
+      "label": "Not recommended",
+      "shortDefinition": "Not ordinarily recommended because of effectiveness, resistance, penetration, safety, or limited evidence.",
+      "displayOrder": 4
+    },
+    {
+      "code": "?",
+      "label": "Insufficient data",
+      "shortDefinition": "Not enough evidence to recommend use.",
+      "displayOrder": 5
+    }
+  ],
+  "interpretationNotes": [
+    "Ratings describe general usefulness and may not apply to every syndrome.",
+    "Regional resistance patterns and patient-specific factors can change suitability.",
+    "The five codes are categorical; they should not be treated as quantitative susceptibility probabilities."
+  ]
+}
